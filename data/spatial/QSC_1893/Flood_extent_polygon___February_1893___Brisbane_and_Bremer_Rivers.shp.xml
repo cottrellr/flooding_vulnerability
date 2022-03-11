@@ -1,0 +1,624 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20200323</CreaDate>
+		<CreaTime>07571100</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers</itemName>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\SIRGIS17\D$\sirgis-fs\customApps\QSC\working\QSC_Extracted_Data_20220311_102115092000-81376\Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<nativeExtBox>
+					<westBL Sync="TRUE">152.785331</westBL>
+					<eastBL Sync="TRUE">153.112699</eastBL>
+					<southBL Sync="TRUE">-27.623279</southBL>
+					<northBL Sync="TRUE">-27.431129</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<imsContentType>002</imsContentType>
+				<itemSize Sync="TRUE">0.000</itemSize></itemProps>
+			<coordRef>
+				<type Sync="TRUE">Geographic</type>
+				<geogcsn Sync="TRUE">GCS_GDA_1994</geogcsn>
+				<csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+				<peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.7'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_GDA_1994&amp;quot;,DATUM[&amp;quot;D_GDA_1994&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4283]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-09&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4283&lt;/WKID&gt;&lt;LatestWKID&gt;4283&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20220311</SyncDate>
+		<SyncTime>10215800</SyncTime>
+		<ModDate>20220311</ModDate>
+		<ModTime>10215800</ModTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISProfile>ISO19139</ArcGISProfile>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+		<locales>
+			<locale language="eng" country="">
+			</locale>
+		</locales>
+	</Esri>
+	<Binary>
+		<Thumbnail>
+			<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKa7pGheRlVFGSzHAFQrf2jTRwrcxGSUMY1Dj
+58dceuKALFFUG1WE3Mlvbxy3MkXEgi24Q+5Yj36Z6GrNtdR3SOUDqUbayuuCpwD/ACIqVKLfLfUC
+aiiiqAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKqX+pWumxLJcuVDEgBVL
+HgZJwOcADJoAoa3pN3q7JAJbdLQAk71Zm38gMMEDjtWSfDtzbyqgtvNiWEoJLaYI6EsD8gfO0jGf
+vY5JGCedifxPptvqKWTtIXYqN6puVSegJHPtnGM/Q1sVEoKQHJy3V7ZRmSNH82QoHe5iYvjBwgC5
+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
+FFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==</Data>
+		</Thumbnail>
+	</Binary>
+	<eainfo>
+		<detailed Name="Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers">
+			<enttyp>
+				<enttypl Sync="TRUE">Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+				<enttypd>A man made watercourse</enttypd>
+				<enttypds>Department of Natural Resources, Mines and Energy</enttypds>
+			</enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FEATURETYP</attrlabl><attalias Sync="TRUE">FEATURETYP</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">LOCATION</attrlabl>
+				<attalias Sync="TRUE">LOCATION</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>General location of the flood extent. This could be the river, river basin, town or other geographic location</attrdef>
+				<attrdefs>Qld Department of Natural Resources, Mines and Energy, Digital Topographic Data Specifications</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Unique feature type that identifies the topographic feature e.g. Floodline</codesetn>
+						<codesets>Qld Department of Natural Resources, Mines and Energy, Digital Topographic Data Specifications</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FEATUREREL</attrlabl><attalias Sync="TRUE">FEATUREREL</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">FEATURESOU</attrlabl><attalias Sync="TRUE">FEATURESOU</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ATTRIBUTER</attrlabl><attalias Sync="TRUE">ATTRIBUTER</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ATTRIBUTES</attrlabl><attalias Sync="TRUE">ATTRIBUTES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CONFIDENCE</attrlabl><attalias Sync="TRUE">CONFIDENCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">COMMENT_</attrlabl>
+				<attalias Sync="TRUE">COMMENT_</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Area</attrlabl><attalias Sync="TRUE">SHAPE_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<mdFileID>1353945D-117D-4AA1-88BE-4DA7141E144A</mdFileID>
+	<mdLang>
+		<languageCode value="eng"/>
+		<countryCode value="AUS" Sync="TRUE"></countryCode></mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdParentID>{1877DFA7-F17B-4849-9F5A-131F46D6C6C4}</mdParentID>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<mdContact>
+		<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+		<rpOrgName>Department of Resources</rpOrgName>
+		<rpPosName>Senior Spatial Information Officer</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>(07) 3330 4738</voiceNum>
+			</cntPhone>
+			<cntAddress>
+				<delPoint>275 George Street</delPoint>
+				<city>Brisbane</city>
+				<adminArea>Queensland</adminArea>
+				<postCode>4000</postCode>
+				<country>AU</country>
+				<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>20210119</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<distInfo>
+		<distributor>
+			<distorCont>
+				<rpIndName>Resources, Open Data</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Product Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4438</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<eMailAdd>opendata@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>Open the Queensland Spatial Catalogue (QSpatial).
+Select the large SEARCH button and all available records are displayed.
+Select one of the four filter options provided and then the further options within the filter.
+The resultant search is then displayed.
+Select your record and complete the order.</ordInstr>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Queensland Spatial Catalogue</formatName>
+				<formatVer>2.0</formatVer>
+				<formatSpec>SHP, TAB, FGDB, KMZ</formatSpec>
+			</distorFormat>
+			<distorTran>
+				<unitsODist>Whole of dataset, although clipped areas are available through QSpatial.</unitsODist>
+				<transSize>8</transSize>
+			</distorTran>
+		</distributor>
+		<distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Flood extent polygon - February 1893 - Brisbane and Bremer Rivers</resTitle>
+			<resAltTitle>Flood extent polygon - February 1893</resAltTitle>
+			<date>
+				<pubDate>2018-10-03</pubDate>
+			</date>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, ED</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Executive Director, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="002"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, IM, MAN Topographic Data Management</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Manager Topographic Data Management, Imagery and Mapping, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="001"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, IM, MAN Topographic Data Management</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Manager Topographic Data Management, Imagery and Mapping, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="008"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Spatial Information Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4738</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>275 George Street</delPoint>
+						<city>Brisbane</city>
+						<adminArea>Queensland</adminArea>
+						<postCode>4000</postCode>
+						<country>AU</country>
+						<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+		</idCitation>
+		<idAbs>This dataset represents the maximum area of inundation of the February 1893 Brisbane and Bremer River flood.</idAbs>
+		<idPurp>The purpose of the data is to identify the flood water inundation in the Brisbane and Bremer Rivers during the flood of February 1893.</idPurp>
+		<idCredit>© State of Queensland (Department of Resources) 2022</idCredit>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+			<rpOrgName>Department of Resources</rpOrgName>
+			<rpPosName>Senior Spatial Information Officer</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum>(07) 3330 4739</voiceNum>
+				</cntPhone>
+				<cntAddress>
+					<delPoint>275 George Street</delPoint>
+					<city>Brisbane</city>
+					<adminArea>Queensland</adminArea>
+					<postCode>4000</postCode>
+					<country>AU</country>
+					<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="006"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009"/>
+			</maintFreq>
+			<maintCont>
+				<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Spatial Information Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4738</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<delPoint>275 George Street</delPoint>
+						<city>Brisbane</city>
+						<adminArea>Queensland</adminArea>
+						<postCode>4000</postCode>
+						<country>AU</country>
+						<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</maintCont>
+		</resMaint>
+		<placeKeys>
+			<keyword>Queensland</keyword>
+			<keyword>Brisbane River</keyword>
+			<keyword>Bremer River</keyword>
+			<keyword>Brisbane</keyword>
+			<keyword>Ipswich</keyword>
+			<thesaName>
+				<resTitle>ANZLIC Search Words</resTitle>
+				<date>
+					<pubDate>2007-08-01</pubDate>
+				</date>
+			</thesaName>
+		</placeKeys>
+		<themeKeys>
+			<keyword>WATER</keyword>
+			<keyword>HAZARDS Flood Mapping</keyword>
+			<keyword>floodline</keyword>
+			<keyword>flood</keyword>
+			<keyword>inundation</keyword>
+			<thesaName>
+				<resTitle>Common Search Terms</resTitle>
+				<date>
+					<pubDate>2016-02-12</pubDate>
+				</date>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>WATER Surface</keyword>
+			<thesaName>
+				<resTitle>ANZLIC Search Words</resTitle>
+				<date>
+					<pubDate>2007-08-01</pubDate>
+				</date>
+			</thesaName>
+		</themeKeys>
+		<searchKeys>
+			<keyword>Queensland</keyword>
+			<keyword>Brisbane River</keyword>
+			<keyword>Bremer River</keyword>
+			<keyword>Brisbane</keyword>
+			<keyword>Ipswich</keyword>
+			<keyword>WATER</keyword>
+			<keyword>HAZARDS Flood Mapping</keyword>
+			<keyword>floodline</keyword>
+			<keyword>flood</keyword>
+			<keyword>inundation</keyword>
+			<keyword>WATER Surface</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>Features have been captured or updated from the best available imagery or data sources.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useLimit>The State of Queensland (Department of Resources)</useLimit>
+				<useConsts>
+					<RestrictCd value="006"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useLimit>This material is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/ "&gt;
+Creative Commons - Attribution 4.0 International&lt;/a&gt; licence. &lt;br /&gt;
+&lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/ "&gt;&lt;img alt="Creative Commons License" title="Creative Commons - Attribution 4.0 International License" style="border: 0;" src="https://licensebuttons.net/l/by/4.0/88x31.png " /&gt;&lt;/a&gt;&lt;br /&gt;
+The Department of Resources requests attribution in the following manner:&lt;br /&gt;
+&amp;#169; State of Queensland (Department of Resources) 2021. Updated data available at http://qldspatial.information.qld.gov.au/catalogue/ .</useLimit>
+				<useConsts>
+					<RestrictCd value="005"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<SecConsts>
+				<class>
+					<ClasscationCd value="001"/>
+				</class>
+				<userNote>Unrestricted to all levels of government and community. Data is available to all government agencies, community groups and individuals. Dataset is available through physical supply and may be made available via web delivery tools, for example, through DNRME's internet sites.</userNote>
+				<classSys>ISO 19115 (mapped from Qld Govt Information Security Standard IS18)</classSys>
+			</SecConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSIdent>
+				<identAuth>
+					<resTitle>Spatial Information Resource (SIR) Feature Class</resTitle>
+					<date>
+						<pubDate>2018-10-03</pubDate>
+					</date>
+				</identAuth>
+				<identCode>NAT.Drainage\NAT.CanalLines</identCode>
+			</aggrDSIdent>
+			<assocType>
+				<AscTypeCd value="004"/>
+			</assocType>
+		</aggrInfo>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<dataLang>
+			<languageCode value="eng"/>
+			<countryCode value="AUS" Sync="TRUE"></countryCode></dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<tpCat>
+			<TopicCatCd value="012"/>
+		</tpCat>
+		<envirDesc> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.1.11595</envirDesc>
+		<dataExt>
+			<exDesc>Bounding Box</exDesc>
+		</dataExt>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>152.785331</westBL>
+					<eastBL>153.112699</eastBL>
+					<southBL>-27.623279</southBL>
+					<northBL>-27.431129</northBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<suppInfo>The extent of this data ranges from Eagle Farm to Mount Crosby along the Brisbane River and from Riverview to Blackstone along the Bremer River. No source data was found for the northern bank of the Bremer River, the southern bank of the Brisbane River from the intersection with the Bremer River to Mount Crosby and along the southern bank of the Brisbane River from Riverhills to Jindalee and so the line in these areas follows the riverbank.
+
+Feature Types: 
+
+Floodline - Represents the maximum inundation of a flood
+
+Attributes: 
+
+FEATURETYPE - Unique feature type that identifies the topographic feature e.g. Floodline 
+LOCATION - Genertal location of the flood extent. This could be the river, river basin, town or other geographic location 
+FEATURERELIABILITY - Reliability date of the source information 
+FEATURESOURCE - The imagery, map or data that the spatial location of the feature was obtained from. 
+ATTRIBUTERELIABILTY - Reliability date of the document or authority that the name of the feature was acquired from. 
+ATTRIBUTESOURCE  - The source (imagery, map or data) used for attributing (naming) of the feature. If no name is present then the attribute source will be the imagery, map or data used to define the feature type 
+CONFIDENCE_LEVEL - The level of confidence in the accuracy of the data. High - overall good source information to base on the data on (may include areas of lower quality data), Moderate -  some good source information to base the data on but an overall dependency on modelling (may be areas of higher and lower quality data), Low - limited good source information, high dependency on modelling (may be areas of higher quality data). Very Low - No data souce.  High dependancy on interpolation from existing non flood imagery. 
+COMMENT - A comment field
+</suppInfo>
+	</dataIdInfo>
+	<mdMaint>
+		<maintFreq>
+			<MaintFreqCd value="009"/>
+		</maintFreq>
+	</mdMaint>
+	<mdConst>
+		<SecConsts>
+			<useLimit>Public</useLimit>
+			<class>
+				<ClasscationCd value="001"/>
+			</class>
+			<classSys>Metadata Access Level</classSys>
+		</SecConsts>
+	</mdConst>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+		<report type="DQConcConsis">
+			<measDesc>Data should be free from overshoots, undershoots, duplicate lines and agree with topographic data product description requirements with a 5% error status</measDesc>
+			<measResult>
+				<ConResult>
+					<conSpec>
+						<resTitle>Department of Resources data capture process</resTitle>
+						<date>
+							<pubDate>2015-08-19</pubDate>
+						</date>
+					</conSpec>
+					<conExpl>The data is to a standard determined as fit for the purpose for which it was collected.</conExpl>
+					<conPass>true</conPass>
+				</ConResult>
+			</measResult>
+		</report>
+		<report type="DQNonQuanAttAcc">
+			<measDesc>Attribution is completed in accordance with Qld Department of Resources, Digital Topographic Data Specifications</measDesc>
+			<measResult>
+				<ConResult>
+					<conSpec>
+						<resTitle>Department of Resources data capture process</resTitle>
+						<date>
+							<pubDate>2015-08-19</pubDate>
+						</date>
+					</conSpec>
+					<conExpl>The data is to a standard determined as fit for the purpose for which it was collected.</conExpl>
+					<conPass>true</conPass>
+				</ConResult>
+			</measResult>
+		</report>
+		<report type="DQCompComm">
+			<measDesc>The collection of feature types will be complete.</measDesc>
+			<measResult>
+				<ConResult>
+					<conSpec>
+						<resTitle>Department of Resources data capture process</resTitle>
+						<date>
+							<pubDate>2015-08-19</pubDate>
+						</date>
+					</conSpec>
+					<conExpl>The data is to a standard determined as fit for the purpose for which it was collected.</conExpl>
+					<conPass>false</conPass>
+				</ConResult>
+			</measResult>
+		</report>
+		<report type="DQAbsExtPosAcc">
+			<measDesc>The horizontal positional accuracy of the data is dependent on old 1890 mapping and relating that mapping to current information. The horizontal positional accuracy of the data will vary between +/-10m and +/-20m.</measDesc>
+			<measResult>
+				<ConResult>
+					<conSpec>
+						<resTitle>Department of Resources data capture process</resTitle>
+						<date>
+							<pubDate>2015-08-19</pubDate>
+						</date>
+					</conSpec>
+					<conExpl>The data is to a standard determined as fit for the purpose for which it was collected.</conExpl>
+					<conPass>true</conPass>
+				</ConResult>
+			</measResult>
+		</report>
+		<dataLineage>
+			<statement>This dataset is GDA2020 compatible. The source data, and therefore the captured features, are georeferenced as GDA94 (horizontal only).  The horizontal accuracy of the geo-referencing and/or data collection method for this example is greater than the datum offset between GDA94 and GDA2020 (1.8 meters).  The resulting dataset has been nominated as a low-accuracy GDA2020 dataset. As this data has not been directly captured in GDA2020, nor transformed to GDA2020, the resulting data is 'GDA2020 Compatible' not 'GDA2020 Compliant'.
+
+This dataset was digitised from scanned flood maps compiled in 1893. The flood extents depicted on these maps were captured by Survey Office staff surveyors, Cecil Twisden Bedford, Henry William Barfoot, Philip Mackenzie Pitt and Alfred Spowers in March 1893.
+
+For control, the road network shown on the 1893 flood maps was compared to the current road network displayed in the Queensland Digital Cadastral Database and the scanned images rectified to match. Because of the accuracy of the road network depicted on the 1893 mapping compared to the present day, only small sections of the scanned maps could be rectified at a time. The flood line was digitised from this small amount of data and then the rectification process continued to the next area.
+
+The 1893 flood maps used in this process were sourced from the Queensland Department of Natural Resource and Mines in 2016 and are labelled:
+- flood-map-1mile-brisbane-river-1893-drawn-1970
+- flood-map-8chain-city-brisbane-and-suburbs-bothbanks-1893
+- flood-map-10chain-suburbs-of-brisbane-sh1-1w-leftbank-1893
+- flood-map-10chain-suburbs-of-brisbane-sh1-rightbank-1893
+- flood-map-20chain-moreton-sh3-leftbank-1893
+- flood-map-20chain-moreton-sh4a-4b-leftbank-1893
+- flood-map-20chain-moreton-sh4a-rightbank-1893
+- flood-map-20chain-moreton-sh4b-rightbank-1893
+- flood-map-20chain-moreton-sh14a-14b-14c-rightbank-1893
+- flood-map-20chain-moreton-sh15b-rightbank-1893
+
+The data structure for this dataset was amended in January 2020 to better align with the display of flood extent data in web services showing consistent attribution.
+
+The following attibute fields were added:
+- LOCATION
+- CONFIDENCE_LEVEL
+</statement>
+			<dataSource>
+				<srcDesc>Queensland Orthophotography</srcDesc>
+			</dataSource>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="4283"/>
+				<idCodeSpace>EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">8.3.4(3.0.1)</idVersion></refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spdoinfo><ptvctinf><esriterm Name="Flood_extent_polygon___February_1893___Brisbane_and_Bremer_Rivers"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>

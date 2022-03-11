@@ -1,0 +1,920 @@
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20200423</CreaDate>
+		<CreaTime>09084500</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties>
+			<itemProps>
+				<itemName Sync="TRUE">Flood_extent___Queensland___Jan_2011</itemName>
+				<nativeExtBox>
+					<westBL Sync="TRUE">147.688512</westBL>
+					<eastBL Sync="TRUE">153.225940</eastBL>
+					<southBL Sync="TRUE">-29.057853</southBL>
+					<northBL Sync="TRUE">-23.071139</northBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</nativeExtBox>
+				<itemLocation>
+					<linkage Sync="TRUE">file://\\SIRGIS18\D$\sirgis-fs\customApps\QSC\working\QSC_Extracted_Data_20220311_102030230000-15004\Flood_extent___Queensland___Jan_2011.shp</linkage>
+					<protocol Sync="TRUE">Local Area Network</protocol>
+				</itemLocation>
+				<imsContentType>002</imsContentType>
+				<itemSize Sync="TRUE">0.000</itemSize></itemProps>
+			<coordRef>
+				<type Sync="TRUE">Geographic</type>
+				<geogcsn Sync="TRUE">GCS_GDA_1994</geogcsn>
+				<csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+				<peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.7'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;GCS_GDA_1994&amp;quot;,DATUM[&amp;quot;D_GDA_1994&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433],AUTHORITY[&amp;quot;EPSG&amp;quot;,4283]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-09&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;WKID&gt;4283&lt;/WKID&gt;&lt;LatestWKID&gt;4283&lt;/LatestWKID&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+			</coordRef>
+		</DataProperties>
+		<SyncDate>20220311</SyncDate>
+		<SyncTime>10211700</SyncTime>
+		<ModDate>20220311</ModDate>
+		<ModTime>10211700</ModTime>
+		<ArcGISProfile>ISO19139</ArcGISProfile>
+		<locales>
+			<locale language="eng" country="">
+			</locale>
+		</locales>
+	</Esri>
+	<Binary>
+		<Thumbnail>
+			<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiqqX8cl69qIbkMv8bQOIz9GxigC1RRRQAUUUUAUtO1ax1ZJXsp1lWJ9jEDHP8A
+h71drjJ4bvwprU17bQLLpl2w83LqnlsW4JJxjG4gdsdea621uBdW0c4UqHGdpxkflSv0AmooopgF
+FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBD9liN6Ls7vNEZiHzHAUnJ46ZyBz7VNRRQA
+UUUUAFFRXDTLbubeNJJsfKrttBPucGpaAGTQx3ELwyoHjdSrKwyCDTLW2is7WK2gXbFEoVFyTgD6
+1NRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABUFrLNNCWntzA
++9gELBsgHAOR69anqs32z+0Y9vk/YvLO/Od+/PHtjFAFmiiigAooooAKKpalLqEUCf2dbRzSs20m
+R9oQH+I+uPSm6Vp0mnW7LNeT3czkM8kzZ5xjgdh7UAX6KKKACiiigAooooAKKKKACiiigAooooAK
+KKKACiiigAooooAKKrX1q15beStxLbncDvibDcHOM+9WaACiiigAooooAKQkKCSQAOSTS1i6+8k/
+2bSIwoGoF0eU4OxVGTgdyRn6UAXtP1Wy1WN5LKcSrG21iARg/iKuVDa2sFlAIbeMRxgk7R6k5P6m
+pqACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACikZlRSzEKo5JJwBSggjIOQaA
+CiiigCOKZJjIEJ/duUbKkc/j169akoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigB
+rusaM7sFVRksxwAKSKWOaMSRSLIh6MhyD+NJcW8V1A8E6B4nGGU96dHGkMaxxIqIowqqMACgB1V5
+/tfnQfZ/IEW798ZM7tv+yB3+tWKKAGyRpLGY5EV0PVWGQfwoeNJImiYfIy7SBxxTqKAKOl6TZ6Nb
+Pb2UZSJ3MhBYtyQB3+gq9URt4muluSD5qoUB3HABIJ46dhzSTXAhlhj8qVzK23KISF46sewoAmoo
+ooAKKrS6hZwQyzSXMQjhyJDuB2kdR9fas7QdZuda+0TNYtb2itiCRicyjnnGPp+dAG1RRRQAUUUU
+AFFFFABRRRQAUUUUAFFFFABRRVa9t5rmARw3LW7B1YsozkA8jqOtAFmiiigAooooAKKKKACiiigA
+rL1W11G9kigtLpLe2ZW89zGGY9MAZPpntWpRQByll4Hs2Z7jVy15du7F2Mh2kcgdAOcEfiK6pVCq
+FHQDApaKACiiigAooooAKKKKACiiigAooooAKKKpXl9JbXMEKWc0yyZLyLgLGMgck9+elADdXv7j
+TrRZrawlvXLhTHGeQMHnofT9atwO0sEcjxmN2UMyH+EkdKkooAo/2rD/AGz/AGX5U3neV5u/Z8mP
+TPrVuXzPKbygpkx8u84Gfen0UAQWa3K2qC8dHuOd7RjC9e34VM2QpKjJxwM0tFAENq9xJbq11CkM
+xzuRJN4H44H8qmoooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/9k=</Data>
+		</Thumbnail>
+	</Binary>
+	<eainfo>
+		<detailed Name="Flood_extent___Queensland___Jan_2011">
+			<enttyp>
+				<enttypl Sync="FALSE">Flood Extent January 2011 Queensland</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">0</enttypc>
+				<enttypd>identify the flood water inundation</enttypd>
+				<enttypds>Department of Natural Resources, Mines and Energy</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAME</attrlabl>
+				<attalias Sync="TRUE">NAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<subtype>
+				<stname Sync="TRUE">Connector</stname>
+				<stcode Sync="TRUE">1</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">FEATURETYPE</stfldnm>
+					<stflddv Sync="TRUE">Connector</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">TYPE</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">PERENNIALITY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_PerennialityMultScle</domname>
+						<domdesc Sync="TRUE">Perennialty which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">HIERARCHY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_HierarchyMultScle</domname>
+						<domdesc Sync="TRUE">Hierarchy which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">UPPERSCALE</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_UpperScaleMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale of Data Utilisation</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">USCERTAINTY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_USCertaintyMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale Certainity</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL100K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL100K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL250K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL250K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOLWAC1MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOLWAC1Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL2_5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL2_5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL10MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL10Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+			</subtype>
+			<subtype>
+				<stname Sync="TRUE">Watercourse</stname>
+				<stcode Sync="TRUE">2</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">FEATURETYPE</stfldnm>
+					<stflddv Sync="TRUE">Watercourse</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">TYPE</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">PERENNIALITY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_PerennialityMultScle</domname>
+						<domdesc Sync="TRUE">Perennialty which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">HIERARCHY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_HierarchyMultScle</domname>
+						<domdesc Sync="TRUE">Hierarchy which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">UPPERSCALE</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_UpperScaleMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale of Data Utilisation</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">USCERTAINTY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_USCertaintyMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale Certainity</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL100K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL100K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL250K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL250K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOLWAC1MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOLWAC1Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL2_5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL2_5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL10MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL10Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+			</subtype>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl Sync="TRUE">ID</attrlabl>
+				<attalias Sync="TRUE">ID</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">19</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FEATURETYP</attrlabl><attalias Sync="TRUE">FEATURETYP</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">TOWN</attrlabl>
+				<attalias Sync="TRUE">TOWN</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">50</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>Town name.</attrdef>
+				<attrdefs>Department of Natural Resources, Mines and Energy</attrdefs>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FEATUREREL</attrlabl><attalias Sync="TRUE">FEATUREREL</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">FEATURESOU</attrlabl><attalias Sync="TRUE">FEATURESOU</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ATTRIBUTER</attrlabl><attalias Sync="TRUE">ATTRIBUTER</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">ATTRIBUTES</attrlabl><attalias Sync="TRUE">ATTRIBUTES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">CONFIDENCE</attrlabl><attalias Sync="TRUE">CONFIDENCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><subtype>
+				<stname Sync="TRUE">DEMConnector</stname>
+				<stcode Sync="TRUE">3</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">FEATURETYPE</stfldnm>
+					<stflddv Sync="TRUE">DEM Connector</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">TYPE</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">PERENNIALITY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_PerennialityMultScle</domname>
+						<domdesc Sync="TRUE">Perennialty which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">HIERARCHY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_HierarchyMultScle</domname>
+						<domdesc Sync="TRUE">Hierarchy which may be populated</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">NAT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">UPPERSCALE</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_UpperScaleMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale of Data Utilisation</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">USCERTAINTY</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">dm_USCertaintyMultScle</domname>
+						<domdesc Sync="TRUE">Upper Scale Certainity</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Duplicate</splttype>
+						<domfldtp Sync="TRUE">String</domfldtp>
+						<domowner Sync="TRUE">BUILT</domowner>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL100K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL100K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL250K</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL250K_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOLWAC1MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOLWAC1Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL2_5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL2_5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL5MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL5Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">SYMBOL10MIL</stfldnm>
+					<stflddd>
+						<domname Sync="TRUE">SYMBOL10Mil_WatercourseLines_Rules</domname>
+						<domdesc Sync="TRUE">Representation rules</domdesc>
+						<domtype Sync="TRUE">Coded Value</domtype>
+						<mrgtype Sync="TRUE">Default value</mrgtype>
+						<splttype Sync="TRUE">Default value</splttype>
+						<domowner Sync="TRUE">NAT</domowner>
+						<domfldtp Sync="TRUE">Integer</domfldtp>
+					</stflddd>
+				</stfield>
+			</subtype>
+			<attr>
+				<attrlabl Sync="TRUE">SOURCE</attrlabl>
+				<attalias Sync="TRUE">SOURCE</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">100</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef>The data source.</attrdef>
+				<attrdefs>Department of Natural Resources, Mines and Energy</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NPNTS</attrlabl>
+				<attalias Sync="TRUE">NPNTS</attalias>
+				<attrtype Sync="TRUE">Integer</attrtype>
+				<attwidth Sync="TRUE">10</attwidth>
+				<atprecis Sync="TRUE">10</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr><attrlabl Sync="TRUE">CAPTURE_DA</attrlabl><attalias Sync="TRUE">CAPTURE_DA</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><subtype>
+				<stname Sync="TRUE">Culvert</stname>
+				<stcode Sync="TRUE">4</stcode>
+				<stfield>
+					<stfldnm Sync="TRUE">FEATURETYPE</stfldnm>
+					<stflddv Sync="TRUE">Culvert</stflddv>
+				</stfield>
+				<stfield>
+					<stfldnm Sync="TRUE">TYPE</stfldnm>
+					<stflddv Sync="TRUE">2</stflddv>
+				</stfield>
+			</subtype>
+			<attr><attrlabl Sync="TRUE">UNDERREVIE</attrlabl><attalias Sync="TRUE">UNDERREVIE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">REVIEWMESS</attrlabl><attalias Sync="TRUE">REVIEWMESS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">LOCATION</attrlabl>
+				<attalias Sync="TRUE">LOCATION</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr><attrlabl Sync="TRUE">CURRENCY_D</attrlabl><attalias Sync="TRUE">CURRENCY_D</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl Sync="TRUE">COMMENT_</attrlabl>
+				<attalias Sync="TRUE">COMMENT_</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">254</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">SHAPE_Area</attrlabl><attalias Sync="TRUE">SHAPE_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<mdFileID>A2B5ECF9-343B-4AB2-96C7-44B69F02B693</mdFileID>
+	<mdLang>
+		<languageCode value="eng"/>
+		<countryCode value="AUS" Sync="TRUE"></countryCode></mdLang>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdParentID>{1877DFA7-F17B-4849-9F5A-131F46D6C6C4}</mdParentID>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdHrLvName>dataset</mdHrLvName>
+	<mdContact>
+		<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+		<rpOrgName>Department of Resources</rpOrgName>
+		<rpPosName>Senior Spatial Information Officer</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>(07) 3330 4738</voiceNum>
+			</cntPhone>
+			<cntAddress>
+				<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>20200423</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<distInfo>
+		<distFormat>
+			<formatName>SDE Feature Class</formatName>
+		</distFormat>
+		<distributor>
+			<distorCont>
+				<rpIndName>Resources, Open Data</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Product Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4438</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<eMailAdd>opendata@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>Open the Queensland Spatial Catalogue (QSpatial).
+Select the large SEARCH button and all available records are displayed.
+Select one of the four filter options provided and then the further options within the filter.
+The resultant search is then displayed.
+Select your record and complete the order.</ordInstr>
+			</distorOrdPrc>
+			<distorFormat>
+				<formatName>Queensland Spatial Catalogue</formatName>
+				<formatVer>2.0</formatVer>
+				<formatSpec>SHP, TAB, FGDB, KMZ</formatSpec>
+			</distorFormat>
+			<distorTran>
+				<unitsODist>Whole of dataset, although clipped areas are available through QSpatial.</unitsODist>
+				<transSize>1</transSize>
+				<onLineSrc>
+					<linkage>http://qldspatial.information.qld.gov.au/catalogue/custom/search.page?q=%22Flood Extent - January 2011 - Queensland%22</linkage>
+				</onLineSrc>
+			</distorTran>
+		</distributor>
+		<distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Flood Extent - January 2011 - Queensland</resTitle>
+			<resAltTitle>Flood Extent January 2011</resAltTitle>
+			<date>
+				<pubDate>2015-06-11</pubDate>
+			</date>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, ED</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Executive Director, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="002"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, IM, MAN Topographic Data Management</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Manager Topographic Data Management, Imagery and Mapping, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="001"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, NR, SI, IM, MAN Topographic Data Management</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Manager Topographic Data Management, Imagery and Mapping, Spatial Information</rpPosName>
+				<role>
+					<RoleCd value="008"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, Greg Payne</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>A/Director, Topographic Data, Imagery and Mapping</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3896 3702</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<eMailAdd>Greg.Payne@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="006"/>
+				</role>
+			</citRespParty>
+			<citRespParty>
+				<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Spatial Information Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4738</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</citRespParty>
+			<presForm>
+				<PresFormCd value="005"/>
+			</presForm>
+		</idCitation>
+		<idAbs>The layer consists of polygons that indicate the approximate inundation at the time the source aerial imagery was captured.</idAbs>
+		<idPurp>The purpose of the data is to identify the flood water inundation in January 2011 in areas throughout Queensland.</idPurp>
+		<idCredit>© State of Queensland (Department of Resources) 2022</idCredit>
+		<idStatus>
+			<ProgCd value="007"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Resources, Greg Payne</rpIndName>
+			<rpOrgName>Department of Resources</rpOrgName>
+			<rpPosName>A/Director, Topographic Data, Imagery and Mapping</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum>(07) 3896 3702</voiceNum>
+				</cntPhone>
+				<cntAddress>
+					<eMailAdd>Greg.Payne@resources.qld.gov.au</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="006"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="009"/>
+			</maintFreq>
+			<maintCont>
+				<rpIndName>Resources, Senior Spatial Information Officer</rpIndName>
+				<rpOrgName>Department of Resources</rpOrgName>
+				<rpPosName>Senior Spatial Information Officer</rpPosName>
+				<rpCntInfo>
+					<cntPhone>
+						<voiceNum>(07) 3330 4738</voiceNum>
+					</cntPhone>
+					<cntAddress>
+						<eMailAdd>SISDTopoDataManagement@resources.qld.gov.au</eMailAdd>
+					</cntAddress>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+			</maintCont>
+		</resMaint>
+		<placeKeys>
+			<keyword>Queensland</keyword>
+			<thesaName>
+				<resTitle>ANZLIC Search Words</resTitle>
+				<date>
+					<pubDate>2007-08-01</pubDate>
+				</date>
+			</thesaName>
+		</placeKeys>
+		<themeKeys>
+			<keyword>WATER</keyword>
+			<keyword>HAZARDS Flood Mapping</keyword>
+			<thesaName>
+				<resTitle>ANZLIC Search Words</resTitle>
+				<date>
+					<pubDate>2007-08-01</pubDate>
+				</date>
+			</thesaName>
+		</themeKeys>
+		<themeKeys>
+			<keyword>flood</keyword>
+			<thesaName>
+				<resTitle>Common Search Terms</resTitle>
+				<date>
+					<pubDate>2016-09-07</pubDate>
+				</date>
+			</thesaName>
+		</themeKeys>
+		<searchKeys>
+			<keyword>Queensland</keyword>
+			<keyword>WATER</keyword>
+			<keyword>HAZARDS Flood Mapping</keyword>
+			<keyword>flood</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts>
+				<useLimit>Recommended for use at a scale of 1:5000 or above in the Brisbane area and 1:7500 or above in other parts of the state.</useLimit>
+			</Consts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useLimit>The State of Queensland (Department of Resources)</useLimit>
+				<useConsts>
+					<RestrictCd value="006"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<LegConsts>
+				<useLimit>This material is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/ "&gt;
+Creative Commons - Attribution 4.0 International&lt;/a&gt; licence. &lt;br /&gt;
+&lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/ "&gt;&lt;img alt="Creative Commons License" title="Creative Commons - Attribution 4.0 International License" style="border: 0;" src="https://licensebuttons.net/l/by/4.0/88x31.png " /&gt;&lt;/a&gt;&lt;br /&gt;
+The Department of Resources requests attribution in the following manner:&lt;br /&gt;
+&amp;#169; State of Queensland (Department of Resources) 2021. Updated data available at http://qldspatial.information.qld.gov.au/catalogue/ .</useLimit>
+				<useConsts>
+					<RestrictCd value="005"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<resConst>
+			<SecConsts>
+				<class>
+					<ClasscationCd value="001"/>
+				</class>
+				<userNote>Unrestricted to all levels of government and community. Data is available to all government agencies, community groups and individuals. Dataset is available through physical supply and may be made available via web delivery tools, for example, through DNRME's internet sites.</userNote>
+				<classSys>ISO 19115 (mapped from Qld Govt Information Security Standard IS18)</classSys>
+			</SecConsts>
+		</resConst>
+		<aggrInfo>
+			<aggrDSIdent>
+				<identAuth>
+					<resTitle>Spatial Information Resource (SIR) Feature Class</resTitle>
+					<date>
+						<pubDate>2015-06-11</pubDate>
+					</date>
+				</identAuth>
+				<identCode>NAT.QLD_FLOODLINES\NAT.QLD_FLOODLINES_JAN2011</identCode>
+			</aggrDSIdent>
+			<assocType>
+				<AscTypeCd value="004"/>
+			</assocType>
+		</aggrInfo>
+		<spatRpType>
+			<SpatRepTypCd value="001"/>
+		</spatRpType>
+		<dataLang>
+			<languageCode value="eng"/>
+			<countryCode value="AUS" Sync="TRUE"></countryCode></dataLang>
+		<dataChar>
+			<CharSetCd value="004"/>
+		</dataChar>
+		<tpCat>
+			<TopicCatCd value="012"/>
+		</tpCat>
+		<envirDesc> Version 6.2 (Build 9200) ; Esri ArcGIS 10.7.1.11595</envirDesc>
+		<dataExt>
+			<exDesc>Bounding Box</exDesc>
+		</dataExt>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>147.688512</westBL>
+					<eastBL>153.22594</eastBL>
+					<southBL>-29.057853</southBL>
+					<northBL>-23.071139</northBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<suppInfo>The Ipswich City Council completed a revision of the 2011 flood event extents within their jurisdiction on the 9 February 2015.</suppInfo>
+	</dataIdInfo>
+	<mdMaint>
+		<maintFreq>
+			<MaintFreqCd value="009"/>
+		</maintFreq>
+	</mdMaint>
+	<mdConst>
+		<SecConsts>
+			<useLimit>Public</useLimit>
+			<class>
+				<ClasscationCd value="001"/>
+			</class>
+			<classSys>Metadata Access Level</classSys>
+		</SecConsts>
+	</mdConst>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+		<report type="DQCompOm">
+			<measDesc>The completeness of the data is dependant on image quality and the ability to identify feature detail. Inaccuracies may exist particularly in the Brisbane CBD area due to high rise buildings and also in areas of heavy vegetation along the river bank. Difficulties were experienced in some areas due to the flood waters having already begun to recede when the imagery was captured. Debris lines were used when evident.</measDesc>
+			<measResult>
+				<ConResult>
+					<conSpec>
+						<resTitle>Department of Resources data capture process</resTitle>
+						<date>
+							<pubDate>2016-09-07</pubDate>
+						</date>
+					</conSpec>
+					<conExpl>The data is to a standard determined as fit for the purpose for which it was collected.</conExpl>
+					<conPass>true</conPass>
+				</ConResult>
+			</measResult>
+		</report>
+		<dataLineage>
+			<statement>This dataset is GDA2020 compatible. The source data, and therefore the captured features, are georeferenced as GDA94 (horizontal only).  The horizontal accuracy of the geo-referencing and/or data collection method for this example is greater than the datum offset between GDA94 and GDA2020 (1.8 meters).  The resulting dataset has been nominated as a low-accuracy GDA2020 dataset. As this data has not been directly captured in GDA2020, nor transformed to GDA2020, the resulting data is 'GDA2020 Compatible' not 'GDA2020 Compliant'.
+
+The data was captured by Spatial Information Officers using MapInfo GIS software. Capture scale varied across the state. The data is recommended for use at a scale of 1:5000 or above in the Brisbane area and 1:7500 or above in other parts of the state. This data has not been ground verified.
+
+The source aerial imagery for the Brisbane River was captured over several days. Port of Brisbane area was captured on 15/1/2011,the Brisbane CBD area was captured on 13/1/2011, and the area west to Karana Downs was captured on 14/1/2011. 
+Following further study of the flooding behaviour of Western Creek in 2014 and a flood modelling review in 2015 the Ipswich City Council completed a revision of the 2011 flood event extents within their jurisdiction on the 9 February 2015.
+
+</statement>
+		</dataLineage>
+	</dqInfo>
+	<spatRepInfo>
+		<VectSpatRep><geometObjs Name="Flood_extent___Queensland___Jan_2011"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode code="4283"/>
+				<idCodeSpace>EPSG</idCodeSpace>
+				<idVersion Sync="TRUE">8.3.4(3.0.1)</idVersion></refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spdoinfo><ptvctinf><esriterm Name="Flood_extent___Queensland___Jan_2011"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>
