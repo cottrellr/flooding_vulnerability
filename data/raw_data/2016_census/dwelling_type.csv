@@ -1,0 +1,830 @@
+﻿STRD Dwelling Structure,,,Separate house,"Semi-detached, row or terrace house, townhouse etc. with one storey","Semi-detached, row or terrace house, townhouse etc. with two or more storeys",Flat or apartment in a one or two storey block,Flat or apartment in a three storey block,Flat or apartment in a four or more storey block,Flat or apartment attached to a house,"House or flat attached to a shop, office, etc.",Caravan,"Cabin, houseboat","Improvised home, tent, sleepers out",Not stated,Not applicable,Total
+,SA2,HHCD - 1 Digit Level,,,,,,,,,,,,,,
+,Alexandra Hills,One family household,4218,60,37,15,0,0,0,0,0,0,0,0,0,4330
+,,Multiple family household,127,0,0,0,0,0,0,0,0,0,0,0,0,127
+,,Non-family household,958,108,51,23,0,0,0,0,0,0,0,8,0,1148
+,,Non-classifiable,149,18,5,3,0,0,0,0,0,0,0,0,0,175
+,,Not applicable,304,18,4,6,0,0,0,0,0,0,0,0,0,332
+,,Total,5760,201,106,51,0,0,0,0,0,0,5,12,0,6135
+,Belmont - Gumdale,One family household,1789,6,93,0,0,0,0,17,0,4,0,6,0,1915
+,,Multiple family household,67,0,0,0,0,0,0,0,0,0,0,0,0,67
+,,Non-family household,270,8,44,0,0,0,0,7,0,0,0,0,0,329
+,,Non-classifiable,75,0,3,0,0,0,0,0,14,15,0,0,0,107
+,,Not applicable,162,3,7,0,0,0,0,0,0,0,0,0,0,172
+,,Total,2352,17,150,0,0,0,0,24,10,18,0,0,0,2571
+,Birkdale,One family household,3606,130,82,52,8,0,0,0,0,24,0,0,0,3902
+,,Multiple family household,113,0,0,0,0,0,0,0,0,0,0,0,0,113
+,,Non-family household,675,178,43,82,21,0,0,0,0,40,0,4,0,1043
+,,Non-classifiable,98,13,3,3,5,0,0,0,0,5,0,0,0,127
+,,Not applicable,252,29,11,18,3,0,0,0,0,0,0,0,3,316
+,,Total,4743,349,141,157,27,0,0,0,0,68,0,5,3,5493
+,Capalaba,One family household,3965,167,397,12,9,0,0,0,10,3,0,5,0,4568
+,,Multiple family household,165,0,0,0,0,0,0,0,0,0,0,0,0,165
+,,Non-family household,891,293,353,60,3,0,0,0,45,15,0,10,0,1670
+,,Non-classifiable,94,17,40,6,0,0,0,0,11,4,6,4,0,182
+,,Not applicable,263,31,53,6,0,0,0,0,0,0,0,0,0,353
+,,Total,5378,497,842,84,14,0,0,0,68,28,9,20,0,6940
+,Thorneside,One family household,691,64,208,13,0,0,0,0,6,38,0,0,0,1020
+,,Multiple family household,22,0,0,0,0,0,0,0,0,0,0,0,0,22
+,,Non-family household,172,56,160,10,0,0,0,0,11,85,0,0,0,494
+,,Non-classifiable,24,12,24,5,0,0,0,0,0,5,0,0,0,70
+,,Not applicable,59,17,36,0,0,0,0,0,0,0,0,0,0,112
+,,Total,965,143,426,27,0,0,0,3,25,130,0,0,0,1719
+,Wellington Point,One family household,2983,13,110,91,5,0,0,0,0,0,0,0,0,3202
+,,Multiple family household,73,0,0,4,0,0,0,0,0,0,0,0,0,77
+,,Non-family household,475,11,90,74,0,0,0,0,0,0,0,6,0,656
+,,Non-classifiable,70,0,11,5,0,0,0,0,0,0,0,0,0,86
+,,Not applicable,211,5,23,17,0,0,0,0,0,0,0,0,0,256
+,,Total,3810,25,241,197,10,0,0,0,0,0,0,8,0,4291
+,Cleveland,One family household,2907,257,325,209,107,97,0,6,0,0,0,11,0,3919
+,,Multiple family household,94,0,0,0,0,0,0,0,0,0,0,0,0,94
+,,Non-family household,700,425,253,361,53,120,0,0,0,0,0,31,0,1943
+,,Non-classifiable,114,24,29,19,11,10,0,3,0,0,4,17,0,231
+,,Not applicable,341,66,80,55,36,44,0,0,0,0,0,0,7,629
+,,Total,4149,768,685,643,212,280,0,5,0,0,4,57,7,6810
+,Ormiston,One family household,1371,38,106,49,0,0,0,0,0,0,0,28,0,1592
+,,Multiple family household,34,0,0,0,0,0,0,0,0,0,0,0,0,34
+,,Non-family household,277,49,65,97,0,0,0,0,0,0,0,32,0,520
+,,Non-classifiable,35,0,9,0,0,0,0,0,0,0,0,4,0,48
+,,Not applicable,114,3,32,92,0,0,0,0,0,0,0,0,5,246
+,,Total,1828,98,225,243,0,6,0,0,0,0,0,64,5,2469
+,Redland Bay,One family household,4079,37,11,16,0,0,0,0,0,0,0,10,0,4153
+,,Multiple family household,127,0,0,0,0,0,0,0,0,0,0,0,0,127
+,,Non-family household,715,23,3,33,0,0,0,0,0,0,0,6,0,780
+,,Non-classifiable,183,0,24,7,0,0,0,0,0,0,3,0,0,217
+,,Not applicable,303,6,4,9,0,0,0,0,0,0,0,0,8,330
+,,Total,5424,67,46,63,0,0,0,0,0,0,3,14,8,5625
+,Sheldon - Mount Cotton,One family household,2125,4,0,0,0,0,0,0,0,0,0,0,0,2129
+,,Multiple family household,66,0,0,0,0,0,0,0,0,0,0,0,0,66
+,,Non-family household,269,0,0,0,0,0,0,0,0,0,0,3,0,272
+,,Non-classifiable,61,0,0,0,0,0,0,0,0,0,0,0,0,61
+,,Not applicable,137,0,0,0,0,0,0,0,0,0,0,0,0,137
+,,Total,2664,3,0,0,0,0,0,0,0,0,0,5,0,2672
+,Thornlands,One family household,3732,51,95,27,0,0,0,0,0,0,0,16,0,3921
+,,Multiple family household,117,0,0,0,0,0,0,0,0,0,0,0,0,117
+,,Non-family household,528,44,28,97,0,0,0,0,0,0,0,10,0,707
+,,Non-classifiable,130,5,4,3,0,0,0,0,0,0,0,0,0,142
+,,Not applicable,269,3,21,6,0,0,0,0,0,0,0,0,7,306
+,,Total,4767,106,144,140,0,0,0,0,0,0,0,34,7,5198
+,Victoria Point,One family household,3558,208,20,215,24,0,0,0,0,0,0,0,0,4025
+,,Multiple family household,112,0,0,0,0,0,0,0,0,0,0,0,0,112
+,,Non-family household,726,255,16,284,15,0,0,0,0,0,0,4,0,1300
+,,Non-classifiable,129,16,3,15,0,0,0,0,0,0,0,0,0,163
+,,Not applicable,256,63,14,75,0,0,0,0,0,0,0,0,6,414
+,,Total,4779,538,56,586,36,5,0,0,0,0,4,9,6,6019
+,Redland Islands,One family household,2207,5,4,24,0,0,0,6,18,7,3,16,0,2290
+,,Multiple family household,34,0,0,0,0,0,0,0,0,0,0,0,0,34
+,,Non-family household,1652,3,5,27,0,0,0,6,24,5,4,15,0,1741
+,,Non-classifiable,352,9,11,8,3,0,0,0,39,8,36,9,0,475
+,,Not applicable,1744,20,40,53,11,0,0,4,14,7,11,0,19,1923
+,,Total,5988,34,56,106,15,4,0,16,95,26,56,37,19,6452
+,Brisbane Port - Lytton,One family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Multiple family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-classifiable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Not applicable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Total,0,0,0,0,0,0,0,0,0,0,0,3,0,3
+,Manly - Lota,One family household,1674,56,70,39,44,11,0,0,0,42,0,7,0,1943
+,,Multiple family household,27,0,0,0,0,0,0,0,0,0,0,0,0,27
+,,Non-family household,450,129,57,58,71,14,0,0,0,59,0,5,0,843
+,,Non-classifiable,53,6,7,12,7,0,0,0,0,41,0,0,0,126
+,,Not applicable,210,8,13,29,16,4,0,0,0,0,0,0,10,290
+,,Total,2424,192,144,133,135,24,0,0,0,147,0,16,10,3225
+,Manly West,One family household,2658,123,295,4,0,0,0,0,0,0,0,3,0,3083
+,,Multiple family household,68,0,5,0,0,0,0,0,0,0,0,0,0,73
+,,Non-family household,583,169,89,16,0,0,0,0,0,0,0,0,0,857
+,,Non-classifiable,78,30,30,0,0,0,0,0,0,0,0,0,0,138
+,,Not applicable,196,19,32,0,0,0,0,0,0,0,0,0,3,250
+,,Total,3587,337,445,22,0,0,0,0,0,0,0,3,3,4397
+,Murarrie,One family household,936,0,78,0,18,0,0,0,0,3,0,3,0,1038
+,,Multiple family household,34,0,4,0,0,0,0,0,0,0,0,0,0,38
+,,Non-family household,260,3,24,0,10,0,0,0,0,3,0,4,0,304
+,,Non-classifiable,47,0,10,0,0,0,0,0,0,38,0,0,0,95
+,,Not applicable,93,0,13,0,7,0,0,0,0,0,0,0,0,113
+,,Total,1373,9,125,9,33,0,0,3,0,44,0,7,0,1603
+,Tingalpa,One family household,1979,22,251,29,0,0,0,0,0,0,0,5,0,2286
+,,Multiple family household,50,0,4,0,0,0,0,0,0,0,0,0,0,54
+,,Non-family household,568,38,151,33,0,0,0,0,0,0,0,3,0,793
+,,Non-classifiable,74,9,37,4,0,0,0,0,0,0,0,0,0,124
+,,Not applicable,152,3,44,21,0,0,0,0,0,0,0,0,0,220
+,,Total,2827,70,484,85,0,0,0,4,0,0,0,12,0,3482
+,Wakerley,One family household,2145,27,260,0,0,0,0,0,0,0,0,0,0,2432
+,,Multiple family household,31,0,0,0,0,0,0,0,0,0,0,0,0,31
+,,Non-family household,207,16,66,0,0,0,0,0,0,0,0,0,0,289
+,,Non-classifiable,48,7,14,0,0,0,0,0,0,0,0,0,0,69
+,,Not applicable,127,8,29,0,0,0,0,0,0,0,0,0,0,164
+,,Total,2558,55,376,0,0,0,0,0,0,0,0,6,0,2995
+,Wynnum,One family household,2889,96,218,85,71,4,0,4,0,0,0,7,0,3374
+,,Multiple family household,83,0,6,0,0,0,0,0,0,0,0,0,0,89
+,,Non-family household,806,130,174,323,113,9,0,3,0,0,0,7,0,1565
+,,Non-classifiable,148,8,23,29,15,0,0,0,0,0,0,5,0,228
+,,Not applicable,272,17,24,52,25,12,0,0,0,0,0,0,8,410
+,,Total,4203,255,440,493,219,27,4,6,0,0,0,19,8,5674
+,Wynnum West - Hemmant,One family household,3213,90,471,24,0,0,0,0,0,0,0,9,0,3807
+,,Multiple family household,74,3,7,0,0,0,0,0,0,0,0,0,0,84
+,,Non-family household,888,270,204,95,0,0,0,0,0,0,0,5,0,1462
+,,Non-classifiable,129,35,33,3,0,0,0,0,0,0,0,5,0,205
+,,Not applicable,273,29,55,13,0,0,0,0,0,0,0,0,5,375
+,,Total,4580,424,773,134,0,0,0,0,0,0,0,19,5,5935
+,Bald Hills,One family household,1835,0,86,4,0,0,0,3,4,0,0,0,0,1932
+,,Multiple family household,58,0,0,0,0,0,0,0,0,0,0,0,0,58
+,,Non-family household,464,0,15,3,0,0,0,0,0,0,0,0,0,482
+,,Non-classifiable,70,0,6,0,0,0,0,0,0,0,0,0,0,76
+,,Not applicable,154,0,0,0,0,0,0,0,0,0,0,0,4,158
+,,Total,2581,0,114,3,0,0,0,3,3,0,0,3,4,2711
+,Bridgeman Downs,One family household,2064,42,82,12,0,0,0,0,0,0,0,11,0,2211
+,,Multiple family household,60,0,0,0,0,0,0,0,0,0,0,0,0,60
+,,Non-family household,283,22,45,5,0,0,0,0,0,0,0,0,0,355
+,,Non-classifiable,51,0,9,5,0,0,0,0,0,0,0,3,0,68
+,,Not applicable,140,7,15,0,0,0,0,0,0,0,0,0,0,162
+,,Total,2595,70,142,19,0,0,0,0,0,0,0,14,0,2840
+,Carseldine,One family household,1903,106,322,13,0,20,0,0,0,0,0,0,0,2364
+,,Multiple family household,58,0,4,0,0,0,0,0,0,0,0,0,0,62
+,,Non-family household,433,167,152,21,0,48,0,0,0,0,0,0,0,821
+,,Non-classifiable,62,6,14,0,0,0,0,0,0,0,0,0,0,82
+,,Not applicable,155,19,38,3,0,3,0,0,0,0,0,0,4,222
+,,Total,2607,305,540,36,0,73,0,0,0,0,0,4,4,3569
+,Everton Park,One family household,1791,16,345,63,106,9,0,0,0,0,0,6,0,2336
+,,Multiple family household,40,0,0,0,0,0,0,0,0,0,0,0,0,40
+,,Non-family household,573,49,317,81,120,5,0,0,0,0,0,12,0,1157
+,,Non-classifiable,66,0,18,14,11,0,0,0,0,0,0,0,0,109
+,,Not applicable,168,8,103,24,34,0,0,0,0,0,0,0,0,337
+,,Total,2641,71,791,190,271,16,0,0,0,0,0,18,0,3998
+,McDowall,One family household,1885,0,113,25,26,0,0,0,0,0,0,6,0,2055
+,,Multiple family household,40,0,0,0,0,0,0,0,0,0,0,0,0,40
+,,Non-family household,344,3,35,31,31,0,0,0,0,0,0,0,0,444
+,,Non-classifiable,46,0,8,8,15,0,0,0,0,0,0,0,0,77
+,,Not applicable,102,4,10,0,12,0,0,0,0,0,0,0,0,128
+,,Total,2408,16,165,66,86,0,0,0,0,0,0,6,0,2747
+,Aspley,One family household,2841,144,236,0,0,0,0,0,13,18,0,8,0,3260
+,,Multiple family household,59,0,6,0,0,0,0,0,0,0,0,0,0,65
+,,Non-family household,675,452,147,49,0,0,0,0,88,45,0,12,0,1468
+,,Non-classifiable,84,16,14,0,0,0,0,0,52,37,6,0,0,209
+,,Not applicable,197,56,35,7,0,0,0,0,0,0,0,3,3,301
+,,Total,3864,666,441,54,0,0,0,0,152,102,6,23,3,5311
+,Chermside,One family household,772,58,375,223,212,465,0,4,0,0,0,0,0,2109
+,,Multiple family household,18,0,13,0,6,0,0,0,0,0,0,0,0,37
+,,Non-family household,368,75,305,336,263,579,0,3,0,0,0,5,0,1934
+,,Non-classifiable,38,12,29,39,30,90,0,0,0,0,0,0,0,238
+,,Not applicable,130,8,65,73,70,109,0,4,0,0,0,0,14,473
+,,Total,1322,155,788,683,571,1250,0,9,0,0,0,6,14,4798
+,Chermside West,One family household,1671,0,30,5,3,7,0,0,0,0,0,0,0,1716
+,,Multiple family household,36,0,0,0,0,0,0,0,0,0,0,0,0,36
+,,Non-family household,485,0,9,13,0,0,0,0,0,0,0,0,0,507
+,,Non-classifiable,36,0,0,4,0,0,0,0,0,0,0,0,0,40
+,,Not applicable,124,0,0,9,0,0,0,0,0,0,0,0,3,136
+,,Total,2356,0,42,29,4,10,0,0,0,0,0,5,3,2449
+,Geebung,One family household,1114,0,8,11,6,0,0,0,0,0,0,3,0,1142
+,,Multiple family household,27,0,0,0,0,0,0,0,0,0,0,0,0,27
+,,Non-family household,371,0,7,16,0,0,0,0,0,0,0,0,0,394
+,,Non-classifiable,36,0,0,0,0,0,0,0,0,0,0,0,0,36
+,,Not applicable,100,0,0,0,0,0,0,0,0,0,0,0,0,100
+,,Total,1656,0,18,32,4,0,0,0,0,0,0,9,0,1719
+,Kedron - Gordon Park,One family household,2425,31,243,262,361,52,0,0,0,0,0,19,0,3393
+,,Multiple family household,35,0,0,5,0,0,0,0,0,0,0,0,0,40
+,,Non-family household,755,45,232,374,450,49,0,0,0,0,0,6,0,1911
+,,Non-classifiable,90,4,18,35,79,46,0,0,0,0,0,0,0,272
+,,Not applicable,262,10,52,94,92,22,0,0,0,0,0,0,5,537
+,,Total,3565,90,537,770,986,171,0,3,0,0,0,24,5,6151
+,Stafford,One family household,1318,15,82,116,100,0,0,0,0,0,0,3,0,1634
+,,Multiple family household,20,0,0,0,0,0,0,0,0,0,0,0,0,20
+,,Non-family household,557,37,118,167,194,0,0,0,0,0,0,3,0,1076
+,,Non-classifiable,66,0,13,21,14,0,0,0,0,0,0,0,0,114
+,,Not applicable,171,6,22,55,56,0,0,0,0,0,0,0,0,310
+,,Total,2135,55,231,351,361,0,0,0,0,0,0,5,0,3138
+,Stafford Heights,One family household,1785,22,22,5,12,0,0,0,0,0,0,6,0,1852
+,,Multiple family household,24,0,0,0,0,0,0,0,0,0,0,0,0,24
+,,Non-family household,557,29,61,3,0,0,0,0,0,0,0,34,0,684
+,,Non-classifiable,97,0,5,0,0,0,0,0,0,0,0,0,0,102
+,,Not applicable,159,6,3,0,0,0,0,0,0,0,0,0,4,172
+,,Total,2622,55,90,18,21,0,0,0,0,0,0,37,4,2847
+,Wavell Heights,One family household,2486,9,46,24,37,0,0,0,0,0,0,0,0,2602
+,,Multiple family household,33,0,0,0,0,0,0,0,0,0,0,0,0,33
+,,Non-family household,771,14,36,57,48,0,0,0,0,0,0,7,0,933
+,,Non-classifiable,91,0,3,9,13,0,0,0,0,0,0,0,0,116
+,,Not applicable,244,0,4,9,18,0,0,0,0,0,0,0,0,275
+,,Total,3633,24,89,95,114,0,0,0,0,0,0,8,0,3963
+,Boondall,One family household,2095,42,136,18,0,42,0,0,0,0,0,13,0,2346
+,,Multiple family household,83,3,5,0,0,0,0,0,0,0,0,0,0,91
+,,Non-family household,637,59,64,12,0,72,0,0,0,0,0,7,0,851
+,,Non-classifiable,61,3,13,6,0,3,0,0,0,0,0,0,0,86
+,,Not applicable,150,10,19,0,0,7,0,0,0,0,0,0,4,190
+,,Total,3020,118,236,34,0,122,0,0,0,0,0,18,4,3552
+,Brisbane Airport,One family household,23,0,0,0,0,0,0,0,0,0,0,0,0,23
+,,Multiple family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-family household,9,0,0,0,0,0,0,0,0,0,0,0,0,9
+,,Non-classifiable,5,0,0,0,0,0,0,0,0,0,0,0,0,5
+,,Not applicable,5,0,0,0,0,0,0,0,0,0,0,0,0,5
+,,Total,42,0,0,0,0,0,0,0,0,0,0,4,0,46
+,Eagle Farm - Pinkenba,One family household,59,0,28,0,0,117,0,0,0,0,0,0,0,204
+,,Multiple family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-family household,50,0,5,0,0,104,0,0,0,0,0,0,0,159
+,,Non-classifiable,5,0,0,3,0,44,0,0,0,0,0,0,0,52
+,,Not applicable,8,0,5,0,0,117,0,0,0,0,0,0,0,130
+,,Total,119,0,37,6,0,379,0,0,0,0,0,4,0,545
+,Northgate - Virginia,One family household,1291,25,148,91,52,0,0,0,0,0,0,0,0,1607
+,,Multiple family household,29,0,0,0,3,0,0,0,0,0,0,0,0,32
+,,Non-family household,441,35,154,150,81,0,0,6,0,0,0,0,0,867
+,,Non-classifiable,87,9,15,24,9,0,0,0,0,0,0,0,0,144
+,,Not applicable,127,3,47,42,13,0,0,0,0,0,0,0,3,235
+,,Total,1977,72,359,303,157,0,0,5,0,0,0,6,3,2882
+,Nudgee - Banyo,One family household,2263,10,77,20,0,0,0,4,0,0,0,3,0,2377
+,,Multiple family household,69,0,0,0,0,0,0,0,0,0,0,0,0,69
+,,Non-family household,775,12,49,28,13,0,0,0,0,0,0,16,0,893
+,,Non-classifiable,114,0,6,0,0,0,0,0,0,0,0,0,0,120
+,,Not applicable,174,6,10,6,4,0,0,0,0,0,0,0,7,207
+,,Total,3388,28,148,55,15,0,0,7,0,0,0,16,7,3664
+,Nundah,One family household,1047,34,355,436,619,436,0,0,0,0,0,9,0,2936
+,,Multiple family household,22,0,3,7,14,4,0,0,0,0,0,0,0,50
+,,Non-family household,340,51,290,639,700,430,0,0,0,0,0,3,0,2453
+,,Non-classifiable,38,6,32,67,84,73,0,0,3,0,0,0,0,303
+,,Not applicable,137,4,72,133,146,138,0,0,0,0,0,0,0,630
+,,Total,1577,97,757,1279,1572,1084,0,4,5,0,0,14,0,6389
+,Bracken Ridge,One family household,4210,77,171,135,0,0,0,0,0,0,0,16,0,4609
+,,Multiple family household,119,0,4,0,0,0,0,0,0,0,0,0,0,123
+,,Non-family household,851,99,60,61,0,0,0,0,0,0,0,3,0,1074
+,,Non-classifiable,139,9,19,4,0,0,0,0,0,0,0,0,0,171
+,,Not applicable,250,11,19,4,0,0,0,0,0,0,0,0,0,284
+,,Total,5570,201,277,206,0,0,0,0,0,0,0,17,0,6271
+,Brighton (Qld),One family household,2419,79,10,9,0,0,0,0,0,15,0,7,0,2539
+,,Multiple family household,41,0,0,0,0,0,0,0,0,0,0,0,0,41
+,,Non-family household,768,77,12,20,0,0,0,3,13,97,0,0,0,990
+,,Non-classifiable,86,11,0,0,0,0,0,0,0,8,6,0,0,111
+,,Not applicable,221,12,5,7,0,0,0,0,0,0,0,0,0,245
+,,Total,3532,182,27,37,0,0,0,5,14,119,6,9,0,3931
+,Deagon,One family household,866,7,0,19,0,0,0,6,0,0,0,0,0,898
+,,Multiple family household,23,0,0,0,0,0,0,0,0,0,0,0,0,23
+,,Non-family household,370,79,0,104,0,0,0,0,0,0,0,6,0,559
+,,Non-classifiable,44,3,0,18,0,0,0,0,0,0,0,0,0,65
+,,Not applicable,102,18,0,41,0,0,0,0,0,0,0,0,0,161
+,,Total,1407,115,0,176,0,0,0,8,0,0,0,9,0,1715
+,Sandgate - Shorncliffe,One family household,1424,6,14,75,49,13,0,3,0,4,0,3,0,1591
+,,Multiple family household,25,0,0,0,0,0,0,0,0,0,0,0,0,25
+,,Non-family household,389,7,14,290,117,10,0,19,0,0,0,7,0,853
+,,Non-classifiable,66,0,6,26,24,3,0,0,0,0,10,0,0,135
+,,Not applicable,162,3,4,51,10,0,0,3,0,0,0,0,6,239
+,,Total,2069,16,35,445,197,24,0,29,0,5,11,14,6,2851
+,Taigum - Fitzgibbon,One family household,2013,281,671,31,9,22,0,0,0,0,0,19,0,3046
+,,Multiple family household,79,0,20,0,0,0,0,0,0,0,0,0,0,99
+,,Non-family household,682,368,424,59,6,42,0,0,0,0,0,15,0,1596
+,,Non-classifiable,92,44,45,0,9,0,0,0,0,0,0,0,0,190
+,,Not applicable,141,60,70,13,0,5,0,4,0,0,0,0,3,296
+,,Total,3014,755,1223,112,25,63,0,3,0,0,0,38,3,5236
+,Zillmere,One family household,1406,118,177,372,76,24,0,0,0,0,0,11,0,2184
+,,Multiple family household,43,0,10,8,0,0,0,0,0,0,0,0,0,61
+,,Non-family household,615,159,99,338,80,50,0,0,0,0,0,11,0,1352
+,,Non-classifiable,88,22,12,49,11,4,0,0,0,0,0,0,0,186
+,,Not applicable,147,22,30,82,30,4,0,0,0,0,0,0,0,315
+,,Total,2297,316,333,848,200,86,0,0,0,0,0,24,0,4104
+,Camp Hill,One family household,2476,26,198,30,51,0,0,5,0,0,0,11,0,2797
+,,Multiple family household,34,0,0,0,0,0,0,0,0,0,0,0,0,34
+,,Non-family household,660,52,174,53,68,0,0,0,0,0,0,8,0,1015
+,,Non-classifiable,110,4,32,18,10,0,0,0,0,0,0,0,0,174
+,,Not applicable,264,11,38,25,8,0,0,0,0,0,0,0,0,346
+,,Total,3544,102,437,117,139,0,0,7,0,0,0,21,0,4367
+,Cannon Hill,One family household,1125,0,70,12,9,116,0,0,25,0,0,3,0,1360
+,,Multiple family household,29,0,0,0,0,0,0,0,0,0,0,0,0,29
+,,Non-family household,377,0,97,14,21,91,0,0,81,0,0,0,0,681
+,,Non-classifiable,57,0,38,0,7,61,0,0,14,0,0,0,0,177
+,,Not applicable,95,0,21,5,3,59,0,0,0,0,0,0,0,183
+,,Total,1691,6,228,26,39,327,0,4,125,0,0,6,0,2452
+,Carina,One family household,1970,54,610,87,79,0,0,0,0,0,0,6,0,2806
+,,Multiple family household,35,0,7,0,0,0,0,0,0,0,0,0,0,42
+,,Non-family household,665,66,335,118,102,4,0,0,0,0,0,10,0,1300
+,,Non-classifiable,95,6,52,6,14,4,0,0,0,0,0,0,0,177
+,,Not applicable,191,18,100,22,27,0,0,0,0,0,0,0,0,358
+,,Total,2963,144,1097,237,224,4,0,0,0,0,0,19,0,4688
+,Carina Heights,One family household,1077,50,518,26,28,4,0,0,0,0,0,0,0,1703
+,,Multiple family household,21,3,6,0,0,0,0,0,0,0,0,0,0,30
+,,Non-family household,352,69,378,29,18,7,0,0,0,0,0,0,0,853
+,,Non-classifiable,51,12,23,0,0,0,0,0,0,6,0,0,0,92
+,,Not applicable,102,11,103,5,4,3,0,0,0,0,0,0,0,228
+,,Total,1608,141,1018,63,47,11,0,0,0,3,0,4,0,2895
+,Carindale,One family household,3878,104,151,23,0,42,0,0,0,0,0,4,0,4202
+,,Multiple family household,101,0,0,0,0,0,0,0,0,0,0,0,0,101
+,,Non-family household,726,66,49,49,0,40,0,0,0,0,0,0,0,930
+,,Non-classifiable,116,0,16,0,0,6,0,0,0,0,0,0,0,138
+,,Not applicable,224,10,7,3,0,17,0,0,0,0,0,0,0,261
+,,Total,5045,184,224,78,0,111,0,0,0,0,0,4,0,5646
+,Annerley,One family household,1341,14,396,434,281,13,0,0,0,0,0,7,0,2486
+,,Multiple family household,35,0,0,0,10,0,0,0,0,0,0,0,0,45
+,,Non-family household,534,14,338,666,356,26,4,4,0,0,0,17,0,1959
+,,Non-classifiable,98,0,42,105,47,0,0,0,0,0,0,0,0,292
+,,Not applicable,164,12,83,129,52,0,0,0,0,0,0,0,8,448
+,,Total,2168,36,859,1332,749,45,4,7,0,0,0,25,8,5233
+,Coorparoo,One family household,2234,11,231,316,826,202,3,0,0,0,0,15,0,3838
+,,Multiple family household,42,0,0,0,14,7,0,0,0,0,0,0,0,63
+,,Non-family household,619,17,286,426,1000,211,5,4,0,0,0,4,0,2572
+,,Non-classifiable,123,5,28,72,121,25,0,0,0,0,0,0,0,374
+,,Not applicable,238,0,43,103,205,30,0,0,0,0,0,0,7,626
+,,Total,3251,27,585,920,2171,470,9,3,0,0,0,21,7,7464
+,Fairfield - Dutton Park,One family household,675,0,49,104,34,143,0,0,0,0,0,3,0,1008
+,,Multiple family household,19,0,0,0,0,0,0,0,0,0,0,0,0,19
+,,Non-family household,310,0,49,154,83,142,0,0,0,0,0,11,0,749
+,,Non-classifiable,42,0,4,19,4,24,0,0,0,0,0,7,0,100
+,,Not applicable,85,3,10,29,14,34,0,0,0,0,0,0,5,180
+,,Total,1127,8,115,306,136,350,0,0,0,0,0,18,5,2065
+,Greenslopes,One family household,1101,8,181,336,418,41,0,5,0,0,0,7,0,2097
+,,Multiple family household,12,0,7,0,8,0,0,0,0,0,0,0,0,27
+,,Non-family household,396,11,142,555,492,49,0,4,0,0,0,13,0,1662
+,,Non-classifiable,65,0,31,55,61,12,0,0,0,0,0,0,0,224
+,,Not applicable,127,0,47,126,102,14,0,0,0,0,0,0,5,421
+,,Total,1705,13,405,1073,1079,117,0,6,0,0,0,31,5,4434
+,Holland Park,One family household,1814,9,55,85,31,5,0,50,0,0,0,13,0,2062
+,,Multiple family household,30,0,0,0,0,0,0,0,0,0,0,0,0,30
+,,Non-family household,582,9,71,107,30,13,0,20,0,0,0,3,0,835
+,,Non-classifiable,72,0,10,11,3,0,0,18,0,0,0,0,0,114
+,,Not applicable,142,0,19,45,6,0,0,11,0,0,0,0,4,227
+,,Total,2645,16,154,245,75,24,0,98,0,0,0,12,4,3273
+,Holland Park West,One family household,1318,0,76,78,116,15,0,3,0,0,0,5,0,1611
+,,Multiple family household,23,0,0,3,0,0,0,0,0,0,0,0,0,26
+,,Non-family household,371,4,37,156,126,10,0,0,0,0,0,0,0,704
+,,Non-classifiable,55,0,5,23,13,0,0,0,0,0,0,0,0,96
+,,Not applicable,126,0,3,37,25,3,0,0,0,0,0,0,0,194
+,,Total,1896,7,127,292,279,29,0,7,0,0,0,11,0,2648
+,Woolloongabba,One family household,514,12,29,133,40,254,0,20,0,0,0,10,0,1012
+,,Multiple family household,21,0,0,0,0,3,0,0,0,0,0,0,0,24
+,,Non-family household,313,24,16,288,81,254,0,20,0,0,0,26,0,1022
+,,Non-classifiable,44,10,9,56,22,138,0,12,0,0,0,9,0,300
+,,Not applicable,96,9,5,79,14,146,0,9,0,0,0,0,19,377
+,,Total,988,45,57,560,164,788,5,64,0,0,0,49,19,2739
+,Yeronga,One family household,1376,12,321,118,231,198,0,0,0,0,0,10,0,2266
+,,Multiple family household,20,0,6,0,0,0,0,0,0,0,0,0,0,26
+,,Non-family household,402,20,294,223,292,123,0,0,0,0,0,3,0,1357
+,,Non-classifiable,75,3,63,80,50,22,0,0,0,0,0,0,0,293
+,,Not applicable,136,6,44,58,47,45,0,0,0,0,0,0,3,339
+,,Total,2018,39,725,476,623,388,0,0,0,0,3,16,3,4291
+,Eight Mile Plains,One family household,2570,136,708,0,0,40,0,0,14,70,0,20,0,3558
+,,Multiple family household,176,5,19,0,0,5,0,0,0,0,0,0,0,205
+,,Non-family household,489,49,311,0,0,35,0,0,71,180,0,15,0,1150
+,,Non-classifiable,68,6,26,0,0,9,0,0,52,125,8,3,0,297
+,,Not applicable,196,16,77,0,0,10,0,0,0,0,0,0,7,306
+,,Total,3503,213,1151,0,3,101,0,0,139,373,4,42,7,5536
+,Macgregor (Qld),One family household,1069,6,16,31,20,21,0,0,0,0,0,0,0,1163
+,,Multiple family household,80,0,0,3,0,0,0,0,0,0,0,0,0,83
+,,Non-family household,451,6,17,10,19,17,0,0,0,0,0,3,0,523
+,,Non-classifiable,71,0,4,3,4,0,0,0,0,0,0,0,0,82
+,,Not applicable,98,0,8,6,5,4,0,0,0,0,0,0,0,121
+,,Total,1768,16,49,52,44,42,0,0,0,0,0,8,0,1979
+,Mansfield (Qld),One family household,2128,9,44,8,15,0,0,0,0,0,0,6,0,2210
+,,Multiple family household,65,0,0,0,3,0,0,0,0,0,0,0,0,68
+,,Non-family household,496,9,23,15,24,0,0,0,0,0,0,4,0,571
+,,Non-classifiable,74,0,17,4,3,6,0,0,0,0,0,0,0,104
+,,Not applicable,134,0,3,4,3,0,0,0,0,0,0,0,0,144
+,,Total,2902,21,85,32,51,3,0,0,0,0,0,9,0,3103
+,Mount Gravatt,One family household,2930,18,326,218,173,32,0,0,0,0,0,9,0,3706
+,,Multiple family household,76,0,8,0,0,0,0,0,0,0,0,0,0,84
+,,Non-family household,864,24,227,312,206,62,0,0,0,0,0,13,0,1708
+,,Non-classifiable,154,5,27,26,18,11,0,4,0,0,0,0,0,245
+,,Not applicable,264,0,75,56,37,9,0,0,0,0,0,0,7,448
+,,Total,4282,45,654,606,439,120,0,4,0,0,0,23,7,6180
+,Rochedale - Burbank,One family household,1525,8,15,0,0,0,0,0,0,21,0,3,0,1572
+,,Multiple family household,74,0,0,0,0,0,0,0,0,0,0,0,0,74
+,,Non-family household,194,3,7,0,0,0,0,0,3,25,0,5,0,237
+,,Non-classifiable,50,5,7,0,0,0,0,0,19,34,0,0,0,115
+,,Not applicable,170,18,4,0,0,0,0,0,0,0,0,41,0,233
+,,Total,2016,38,32,7,0,0,0,8,21,73,0,48,0,2243
+,Upper Mount Gravatt,One family household,1668,9,84,52,101,140,0,0,0,0,0,3,0,2057
+,,Multiple family household,39,0,8,0,6,0,0,0,0,0,0,0,0,53
+,,Non-family household,731,26,61,118,149,128,0,0,0,0,0,7,0,1220
+,,Non-classifiable,106,4,9,5,17,20,0,0,0,0,0,3,0,164
+,,Not applicable,204,10,17,8,34,29,0,0,0,0,0,0,9,311
+,,Total,2750,51,168,185,304,311,0,0,0,0,0,19,9,3797
+,Wishart,One family household,2311,40,394,27,5,0,0,0,0,0,0,4,0,2781
+,,Multiple family household,86,0,5,0,0,0,0,0,0,0,0,0,0,91
+,,Non-family household,461,59,170,14,3,0,0,0,0,0,0,0,0,707
+,,Non-classifiable,60,7,42,0,0,0,0,0,0,0,0,0,0,109
+,,Not applicable,134,6,28,0,0,0,0,0,0,0,0,0,0,168
+,,Total,3058,107,637,41,10,0,0,0,0,0,0,7,0,3860
+,Coopers Plains,One family household,955,38,82,4,60,11,0,0,0,0,0,5,0,1155
+,,Multiple family household,48,4,0,0,0,0,0,0,0,0,0,0,0,52
+,,Non-family household,439,39,82,14,46,14,0,0,0,0,0,9,0,643
+,,Non-classifiable,74,5,12,6,8,3,0,0,0,0,0,7,0,115
+,,Not applicable,109,4,14,9,0,0,0,0,0,0,0,0,3,139
+,,Total,1627,91,199,30,114,31,0,0,4,0,0,17,3,2116
+,Moorooka,One family household,1854,17,266,261,149,0,0,0,0,0,0,10,0,2557
+,,Multiple family household,31,0,8,4,0,0,0,0,0,0,0,0,0,43
+,,Non-family household,670,21,240,378,186,0,3,0,0,0,0,10,0,1508
+,,Non-classifiable,94,4,33,43,24,0,0,0,0,0,0,9,0,207
+,,Not applicable,212,5,43,119,53,0,0,0,0,0,0,0,0,432
+,,Total,2856,46,581,800,416,0,3,4,0,0,0,22,0,4728
+,Robertson,One family household,845,81,106,19,0,3,0,0,0,0,0,4,0,1058
+,,Multiple family household,63,9,4,7,0,0,0,0,0,0,0,0,0,83
+,,Non-family household,230,117,75,11,0,0,0,0,0,0,0,18,0,451
+,,Non-classifiable,42,9,20,5,0,0,0,0,0,0,0,3,0,79
+,,Not applicable,72,7,17,0,0,0,0,0,0,0,0,0,3,99
+,,Total,1246,226,226,40,0,3,0,0,0,0,0,29,3,1773
+,Salisbury - Nathan,One family household,1546,4,29,57,0,0,0,3,0,0,0,9,0,1648
+,,Multiple family household,28,0,0,3,0,0,0,0,0,0,0,0,0,31
+,,Non-family household,603,14,27,76,0,0,0,0,0,0,0,4,0,724
+,,Non-classifiable,104,0,0,10,0,0,0,0,0,0,0,0,0,114
+,,Not applicable,140,4,3,24,0,0,0,0,0,0,0,0,5,176
+,,Total,2423,23,61,172,0,8,0,3,0,0,0,11,5,2706
+,Tarragindi,One family household,2647,3,48,22,0,0,0,0,0,0,0,9,0,2729
+,,Multiple family household,48,0,0,0,0,0,0,0,0,0,0,0,0,48
+,,Non-family household,665,0,34,38,0,0,0,0,0,0,0,0,0,737
+,,Non-classifiable,136,0,0,4,0,0,0,0,0,0,0,0,0,140
+,,Not applicable,184,0,5,13,0,0,0,0,0,0,0,0,0,202
+,,Total,3686,3,94,73,0,0,0,0,0,0,0,9,0,3865
+,Algester,One family household,1928,44,150,20,0,0,0,0,10,0,0,0,0,2152
+,,Multiple family household,73,0,0,0,0,0,0,0,0,0,0,0,0,73
+,,Non-family household,430,38,74,23,0,0,0,0,22,18,0,0,0,605
+,,Non-classifiable,54,7,6,3,0,0,0,0,5,4,0,0,0,79
+,,Not applicable,119,8,21,9,0,0,0,0,0,0,0,0,3,160
+,,Total,2606,97,259,53,0,0,0,4,35,26,0,4,3,3087
+,Calamvale - Stretton,One family household,4015,94,1104,3,7,0,0,0,0,0,0,5,0,5228
+,,Multiple family household,247,0,36,0,0,0,0,0,0,0,0,0,0,283
+,,Non-family household,601,31,360,0,3,0,0,0,0,0,0,3,0,998
+,,Non-classifiable,157,6,85,0,0,0,0,0,0,0,0,0,0,248
+,,Not applicable,249,7,85,0,0,0,0,0,0,0,0,0,5,346
+,,Total,5266,142,1671,4,14,0,0,0,0,0,0,9,5,7111
+,Pallara - Willawong,One family household,1151,3,6,0,0,0,0,4,0,0,0,3,0,1167
+,,Multiple family household,47,0,0,0,0,0,0,0,0,0,0,0,0,47
+,,Non-family household,171,3,0,0,0,0,0,0,0,0,0,0,0,174
+,,Non-classifiable,62,0,0,0,0,0,0,0,0,0,3,0,0,65
+,,Not applicable,103,0,0,0,0,0,0,0,0,0,0,0,0,103
+,,Total,1530,7,3,0,0,0,0,3,0,0,3,4,0,1550
+,Parkinson - Drewvale,One family household,3575,23,249,0,0,0,0,0,0,0,0,3,0,3850
+,,Multiple family household,180,0,3,0,0,0,0,0,0,0,0,0,0,183
+,,Non-family household,381,25,112,0,0,0,0,0,0,0,0,0,0,518
+,,Non-classifiable,88,0,25,0,0,0,0,0,0,0,0,0,0,113
+,,Not applicable,167,4,17,0,0,0,0,0,0,0,0,0,4,192
+,,Total,4393,62,411,3,0,0,0,0,0,0,0,3,4,4876
+,Rocklea - Acacia Ridge,One family household,1883,33,173,42,5,0,0,0,0,0,0,3,0,2139
+,,Multiple family household,75,4,5,3,0,0,0,0,0,0,0,0,0,87
+,,Non-family household,850,38,78,58,4,0,0,0,0,0,0,5,0,1033
+,,Non-classifiable,198,6,21,13,0,0,0,0,0,0,0,0,0,238
+,,Not applicable,256,6,11,18,0,0,0,3,0,0,0,0,9,303
+,,Total,3261,80,291,139,5,0,0,4,0,0,0,14,9,3803
+,Kuraby,One family household,1692,68,205,7,0,0,0,0,0,0,0,0,0,1972
+,,Multiple family household,83,3,9,0,0,0,0,0,0,0,0,0,0,95
+,,Non-family household,271,23,59,27,0,0,0,0,0,0,0,0,0,380
+,,Non-classifiable,60,0,12,0,0,0,0,0,0,0,0,0,0,72
+,,Not applicable,122,4,15,7,0,0,0,0,0,0,0,0,0,148
+,,Total,2229,101,305,43,0,0,5,3,0,0,0,3,0,2689
+,Runcorn,One family household,2472,72,817,25,0,0,0,0,0,0,0,9,0,3395
+,,Multiple family household,144,4,35,0,0,0,0,0,0,0,0,0,0,183
+,,Non-family household,635,51,285,8,0,0,0,0,0,0,0,3,0,982
+,,Non-classifiable,119,3,50,0,0,0,0,0,0,0,0,0,0,172
+,,Not applicable,169,15,61,15,0,0,0,0,0,0,0,0,0,260
+,,Total,3541,141,1249,49,0,0,0,0,0,0,0,10,0,4990
+,Sunnybank,One family household,1644,45,146,8,0,0,0,0,0,0,0,5,0,1848
+,,Multiple family household,113,0,8,0,0,0,0,0,0,0,0,0,0,121
+,,Non-family household,676,58,86,10,0,0,0,0,0,0,0,3,0,833
+,,Non-classifiable,96,0,5,0,0,0,0,0,0,0,0,3,0,104
+,,Not applicable,229,6,20,0,0,0,0,0,0,0,0,0,0,255
+,,Total,2756,109,262,15,0,0,0,0,0,0,0,15,0,3157
+,Sunnybank Hills,One family household,3595,37,396,5,0,0,0,0,0,11,0,8,0,4052
+,,Multiple family household,241,0,12,0,0,0,0,0,0,0,0,0,0,253
+,,Non-family household,934,84,174,9,0,0,0,0,0,62,0,85,0,1348
+,,Non-classifiable,172,6,52,17,0,0,0,0,0,0,0,0,0,247
+,,Not applicable,302,8,44,0,0,0,0,3,0,0,0,4,4,365
+,,Total,5245,141,680,28,0,0,0,3,7,77,0,93,4,6278
+,Jindalee - Mount Ommaney,One family household,1914,5,106,7,0,0,0,0,0,0,0,0,0,2032
+,,Multiple family household,60,0,7,0,0,0,0,0,0,0,0,0,0,67
+,,Non-family household,390,0,43,45,0,0,0,0,0,0,0,0,0,478
+,,Non-classifiable,36,0,9,0,0,0,0,0,0,0,0,0,0,45
+,,Not applicable,148,0,12,12,0,0,0,0,0,0,0,0,3,175
+,,Total,2556,5,169,62,0,0,0,0,0,0,0,0,3,2795
+,Middle Park - Jamboree Heights,One family household,1877,10,33,0,0,0,0,0,0,0,0,0,0,1920
+,,Multiple family household,50,0,0,0,0,0,0,0,0,0,0,0,0,50
+,,Non-family household,443,6,22,0,0,0,0,0,0,0,0,0,0,471
+,,Non-classifiable,41,0,0,0,0,0,0,0,0,0,0,0,0,41
+,,Not applicable,151,4,5,0,0,0,0,0,0,0,0,0,0,160
+,,Total,2566,22,62,0,0,0,0,0,0,0,0,0,0,2650
+,Riverhills,One family household,999,23,73,0,0,0,0,0,0,0,0,6,0,1101
+,,Multiple family household,27,0,0,0,0,0,0,0,0,0,0,0,0,27
+,,Non-family household,242,32,46,0,0,0,0,0,0,0,0,0,0,320
+,,Non-classifiable,20,4,28,0,0,0,0,0,0,0,0,0,0,52
+,,Not applicable,77,4,0,0,0,0,0,0,0,0,0,0,0,81
+,,Total,1366,64,150,0,0,0,0,0,0,0,0,6,0,1586
+,Seventeen Mile Rocks - Sinnamon Park,One family household,2316,3,224,0,0,0,0,0,0,0,0,4,0,2547
+,,Multiple family household,51,0,0,0,0,0,0,0,0,0,0,0,0,51
+,,Non-family household,385,16,92,0,0,0,0,0,0,0,0,0,0,493
+,,Non-classifiable,50,0,3,0,0,0,0,0,0,0,0,0,0,53
+,,Not applicable,140,14,25,0,0,0,0,0,0,0,0,0,6,185
+,,Total,2940,30,351,5,0,0,0,4,0,0,0,5,6,3341
+,Westlake,One family household,1189,20,0,0,0,0,0,0,0,0,0,0,0,1209
+,,Multiple family household,38,0,0,0,0,0,0,0,0,0,0,0,0,38
+,,Non-family household,162,19,0,0,0,0,0,0,0,0,0,0,0,181
+,,Non-classifiable,24,6,0,0,0,0,0,0,0,0,0,0,0,30
+,,Not applicable,85,5,0,0,0,0,0,0,0,0,0,0,0,90
+,,Total,1490,47,0,0,0,0,0,0,0,0,0,0,0,1537
+,Bellbowrie - Moggill,One family household,2661,55,7,0,0,0,0,0,0,0,0,4,0,2727
+,,Multiple family household,64,0,0,0,0,0,0,0,0,0,0,0,0,64
+,,Non-family household,385,60,9,0,0,0,0,0,0,0,0,0,0,454
+,,Non-classifiable,84,0,0,0,0,0,0,0,0,0,0,0,0,84
+,,Not applicable,166,8,6,0,0,0,0,0,0,0,0,0,0,180
+,,Total,3358,128,30,0,0,0,0,0,0,0,0,4,0,3520
+,Brookfield - Kenmore Hills,One family household,1687,6,12,26,0,0,0,0,0,0,0,0,0,1731
+,,Multiple family household,49,0,0,0,0,0,0,0,0,0,0,0,0,49
+,,Non-family household,237,51,11,15,0,0,0,0,0,0,0,0,0,314
+,,Non-classifiable,66,4,9,3,0,0,0,0,0,0,0,0,0,82
+,,Not applicable,136,11,3,3,0,0,0,0,0,0,0,0,4,157
+,,Total,2176,71,34,42,0,0,0,0,0,0,0,5,4,2332
+,Chapel Hill,One family household,2708,0,52,4,0,0,0,0,0,0,0,0,0,2764
+,,Multiple family household,48,0,0,0,0,0,0,0,0,0,0,0,0,48
+,,Non-family household,543,0,39,7,0,0,0,0,0,0,0,4,0,593
+,,Non-classifiable,78,0,0,0,0,0,0,0,0,0,0,0,0,78
+,,Not applicable,211,0,3,5,0,0,0,0,0,0,0,0,0,219
+,,Total,3587,0,97,7,0,0,0,0,0,0,0,5,0,3696
+,Fig Tree Pocket,One family household,1065,0,0,0,0,0,0,0,0,0,0,3,0,1068
+,,Multiple family household,17,0,0,0,0,0,0,0,0,0,0,0,0,17
+,,Non-family household,147,0,0,0,0,0,0,0,0,0,0,0,0,147
+,,Non-classifiable,33,0,0,0,0,0,0,0,0,0,0,0,0,33
+,,Not applicable,95,0,0,0,0,0,0,0,0,0,0,0,0,95
+,,Total,1367,0,0,0,0,0,0,0,0,0,0,3,0,1370
+,Kenmore,One family household,2292,20,59,0,13,0,0,0,0,0,0,0,0,2384
+,,Multiple family household,44,0,0,0,0,0,0,0,0,0,0,0,0,44
+,,Non-family household,578,14,24,0,4,0,0,0,0,0,0,4,0,624
+,,Non-classifiable,57,0,3,0,0,0,0,0,0,0,0,0,0,60
+,,Not applicable,199,13,9,0,0,0,0,0,0,0,0,0,0,221
+,,Total,3173,45,92,0,15,0,0,0,0,0,0,6,0,3331
+,Pinjarra Hills - Pullenvale,One family household,1395,13,0,0,0,0,0,0,0,0,0,0,0,1408
+,,Multiple family household,39,0,0,0,0,0,0,0,0,0,0,0,0,39
+,,Non-family household,139,53,0,0,0,0,0,0,0,0,0,7,0,199
+,,Non-classifiable,33,0,0,0,0,0,0,0,0,0,0,0,0,33
+,,Not applicable,101,13,0,0,0,0,0,0,0,0,0,0,0,114
+,,Total,1707,80,0,0,0,0,0,0,0,0,0,8,0,1795
+,Chelmer - Graceville,One family household,1787,4,66,26,19,0,0,0,0,0,0,10,0,1912
+,,Multiple family household,18,0,0,0,0,0,0,0,0,0,0,0,0,18
+,,Non-family household,389,25,27,31,33,0,0,0,0,0,0,7,0,512
+,,Non-classifiable,52,0,13,0,5,0,0,0,0,0,0,0,0,70
+,,Not applicable,164,5,14,7,6,0,0,0,0,0,0,0,0,196
+,,Total,2408,29,122,57,56,0,0,0,0,0,0,11,0,2683
+,Corinda,One family household,991,23,56,91,29,24,0,0,0,0,0,0,0,1214
+,,Multiple family household,16,0,0,0,0,0,0,0,0,0,0,0,0,16
+,,Non-family household,230,9,51,142,40,15,0,0,0,0,0,0,0,487
+,,Non-classifiable,31,3,5,12,0,4,0,0,0,0,0,0,0,55
+,,Not applicable,100,0,13,27,7,28,0,0,0,0,0,0,4,179
+,,Total,1369,41,125,271,76,59,0,0,0,0,0,0,4,1945
+,Indooroopilly,One family household,1633,4,230,102,372,392,0,0,0,0,0,26,0,2759
+,,Multiple family household,30,0,0,0,0,0,0,0,0,0,0,0,0,30
+,,Non-family household,586,12,145,181,403,303,0,0,0,0,0,16,0,1646
+,,Non-classifiable,49,0,11,21,40,84,0,0,0,0,0,9,0,214
+,,Not applicable,202,0,57,27,96,75,0,0,0,0,0,0,3,460
+,,Total,2504,22,451,329,919,854,0,0,0,0,0,59,3,5141
+,Sherwood,One family household,1055,6,137,98,87,38,0,8,0,0,0,6,0,1435
+,,Multiple family household,12,0,6,0,0,0,0,0,0,0,0,0,0,18
+,,Non-family household,269,23,148,127,99,24,0,5,0,0,0,7,0,702
+,,Non-classifiable,21,0,12,17,11,43,0,0,0,0,0,0,0,104
+,,Not applicable,89,7,34,27,34,7,0,0,0,0,0,0,0,198
+,,Total,1445,37,340,276,229,114,0,11,0,5,0,10,0,2467
+,St Lucia,One family household,768,10,102,195,349,356,0,0,0,0,0,5,0,1785
+,,Multiple family household,12,0,4,0,0,0,0,0,0,0,0,0,0,16
+,,Non-family household,424,12,122,259,493,478,0,0,0,0,0,9,0,1797
+,,Non-classifiable,55,4,17,28,74,121,0,0,0,0,0,9,0,308
+,,Not applicable,94,0,19,52,70,122,0,0,0,0,0,0,20,377
+,,Total,1358,26,267,537,990,1078,3,0,0,0,0,24,20,4303
+,Taringa,One family household,686,4,133,266,626,157,0,0,0,0,0,12,0,1884
+,,Multiple family household,7,0,0,0,4,0,0,0,0,0,0,0,0,11
+,,Non-family household,304,3,117,327,784,162,0,0,0,0,0,33,0,1730
+,,Non-classifiable,37,0,14,35,81,13,0,0,0,0,0,4,0,184
+,,Not applicable,109,0,18,89,154,56,0,0,0,0,0,0,0,426
+,,Total,1157,10,284,723,1643,388,0,0,0,0,0,49,0,4254
+,Enoggera,One family household,1233,20,143,237,142,8,0,0,0,0,0,6,0,1789
+,,Multiple family household,22,0,6,0,0,0,0,0,0,0,0,0,0,28
+,,Non-family household,429,41,120,405,164,48,0,0,0,0,0,6,0,1213
+,,Non-classifiable,60,8,20,68,28,7,0,0,0,0,0,0,0,191
+,,Not applicable,168,13,31,76,46,0,0,0,0,0,0,0,0,334
+,,Total,1905,76,312,788,383,63,0,0,0,0,0,16,0,3543
+,Enoggera Reservoir,One family household,8,0,0,0,0,0,0,0,0,0,0,0,0,8
+,,Multiple family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-family household,4,0,0,0,0,0,0,0,0,0,0,0,0,4
+,,Non-classifiable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Not applicable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Total,14,0,0,0,0,0,0,0,0,0,0,0,0,14
+,Keperra,One family household,1737,30,25,66,0,6,0,4,0,0,0,3,0,1871
+,,Multiple family household,36,0,0,0,0,0,0,0,0,0,0,0,0,36
+,,Non-family household,557,117,83,64,3,6,0,0,0,0,0,3,0,833
+,,Non-classifiable,52,0,5,0,0,0,0,0,0,0,0,0,0,57
+,,Not applicable,171,24,12,5,0,0,0,0,0,0,0,0,3,215
+,,Total,2555,177,118,138,3,14,0,4,0,0,0,5,3,3017
+,Mitchelton,One family household,1908,3,71,103,43,32,0,0,0,0,0,11,0,2171
+,,Multiple family household,27,0,0,0,0,0,0,0,0,0,0,0,0,27
+,,Non-family household,523,4,35,110,120,38,0,0,0,0,0,0,0,830
+,,Non-classifiable,61,0,0,20,6,0,0,0,0,0,0,0,0,87
+,,Not applicable,172,3,14,19,23,3,3,0,0,0,0,0,0,237
+,,Total,2688,8,127,251,187,76,3,0,0,0,0,10,0,3350
+,Mount Coot-tha,One family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Multiple family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-family household,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Non-classifiable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Not applicable,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Total,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,The Gap,One family household,4330,20,114,8,19,0,0,0,0,0,0,11,0,4502
+,,Multiple family household,82,0,0,0,0,0,0,0,0,0,0,0,0,82
+,,Non-family household,831,20,84,3,8,7,0,0,0,0,0,3,0,956
+,,Non-classifiable,122,0,27,0,0,6,0,0,0,0,0,0,0,155
+,,Not applicable,255,0,21,0,0,5,0,0,0,0,0,0,4,285
+,,Total,5619,40,248,11,35,14,0,0,0,0,0,10,4,5981
+,Upper Kedron - Ferny Grove,One family household,2558,11,0,130,3,0,0,0,0,0,0,6,0,2708
+,,Multiple family household,50,0,0,0,0,0,0,0,0,0,0,0,0,50
+,,Non-family household,313,6,0,85,4,0,0,0,0,0,0,0,0,408
+,,Non-classifiable,52,0,0,8,0,0,0,0,0,0,0,0,0,60
+,,Not applicable,133,0,0,6,3,0,0,0,0,0,0,0,0,142
+,,Total,3110,20,0,224,9,0,0,0,0,0,0,5,0,3368
+,Brisbane City,One family household,179,0,12,26,8,1652,0,0,0,3,4,23,0,1907
+,,Multiple family household,0,0,0,0,0,15,0,0,0,0,0,0,0,15
+,,Non-family household,155,7,11,48,15,1802,0,0,0,5,41,34,0,2118
+,,Non-classifiable,30,0,0,14,3,540,0,0,0,0,79,45,0,711
+,,Not applicable,34,0,11,16,5,693,0,0,0,0,0,0,66,825
+,,Total,399,3,32,109,35,4700,0,0,0,5,125,100,66,5574
+,Fortitude Valley,One family household,43,0,45,35,218,957,0,0,0,0,0,0,0,1298
+,,Multiple family household,0,0,0,0,0,7,0,0,0,0,0,0,0,7
+,,Non-family household,33,0,48,70,350,1412,0,0,0,0,0,14,0,1927
+,,Non-classifiable,8,0,21,24,76,371,0,0,0,0,14,7,0,521
+,,Not applicable,10,0,8,19,83,526,3,0,0,0,0,0,30,679
+,,Total,97,0,123,154,735,3270,3,0,0,0,18,23,30,4453
+,Highgate Hill,One family household,621,12,64,161,236,162,0,6,0,0,0,4,0,1266
+,,Multiple family household,23,0,0,0,0,0,0,0,0,0,0,0,0,23
+,,Non-family household,288,4,37,309,268,170,0,0,0,0,0,12,0,1088
+,,Non-classifiable,55,0,19,53,58,45,0,0,0,0,0,0,0,230
+,,Not applicable,82,6,12,74,62,44,0,0,0,0,0,0,7,287
+,,Total,1072,20,131,589,622,410,0,6,0,0,0,23,7,2880
+,Kangaroo Point,One family household,230,6,35,61,236,1160,0,0,0,9,0,7,0,1744
+,,Multiple family household,6,0,0,0,4,9,0,0,0,0,0,0,0,19
+,,Non-family household,192,12,49,145,322,1098,4,0,0,6,0,6,0,1834
+,,Non-classifiable,32,3,8,33,71,194,0,0,0,19,4,10,0,374
+,,Not applicable,53,6,15,52,96,450,0,0,0,0,0,3,21,696
+,,Total,514,36,105,293,721,2911,5,5,0,40,4,27,21,4682
+,New Farm,One family household,794,7,107,364,548,725,3,4,0,0,0,10,0,2562
+,,Multiple family household,6,0,0,5,0,0,0,0,0,0,0,0,0,11
+,,Non-family household,318,10,95,915,729,779,8,0,0,0,0,30,0,2884
+,,Non-classifiable,105,3,31,206,173,251,0,4,0,0,6,7,0,786
+,,Not applicable,100,8,17,221,146,224,0,3,0,0,0,0,38,757
+,,Total,1325,25,249,1710,1600,1982,16,9,0,0,10,47,38,7011
+,South Brisbane,One family household,145,7,41,38,149,1047,0,3,0,0,0,10,0,1440
+,,Multiple family household,3,0,0,0,0,5,0,0,0,0,0,0,0,8
+,,Non-family household,79,9,16,79,119,944,0,8,0,0,0,25,0,1279
+,,Non-classifiable,21,5,6,7,30,210,0,0,0,0,14,13,0,306
+,,Not applicable,32,5,11,16,63,401,0,0,0,0,0,0,40,568
+,,Total,281,21,79,136,366,2606,0,15,0,0,14,43,40,3601
+,Spring Hill,One family household,192,3,89,41,84,545,0,0,0,0,0,3,0,957
+,,Multiple family household,5,0,3,0,0,0,0,0,0,0,0,0,0,8
+,,Non-family household,154,7,133,46,166,700,0,0,0,0,0,12,0,1218
+,,Non-classifiable,28,0,16,15,31,163,0,0,0,0,31,8,0,292
+,,Not applicable,43,4,37,19,50,216,0,0,0,0,0,0,57,426
+,,Total,428,9,276,123,327,1628,4,4,0,0,28,26,57,2910
+,West End,One family household,765,16,86,176,296,755,0,6,0,0,0,6,0,2106
+,,Multiple family household,17,0,3,0,3,0,0,0,0,0,0,0,0,23
+,,Non-family household,366,9,86,294,370,525,0,0,0,0,0,10,0,1660
+,,Non-classifiable,71,12,14,82,123,173,0,0,0,0,0,32,0,507
+,,Not applicable,123,3,17,79,88,216,0,7,0,0,0,0,4,537
+,,Total,1343,37,207,628,874,1662,0,16,0,0,0,51,4,4822
+,Balmoral,One family household,800,3,129,93,46,12,0,0,0,0,0,3,0,1086
+,,Multiple family household,5,0,3,0,0,0,0,0,0,0,0,0,0,8
+,,Non-family household,169,9,73,129,63,0,0,0,0,0,0,4,0,447
+,,Non-classifiable,42,4,15,30,7,0,0,0,0,0,0,0,0,98
+,,Not applicable,100,3,31,43,10,0,0,0,0,0,0,0,0,187
+,,Total,1118,17,243,293,127,14,0,0,0,0,0,4,0,1816
+,Bulimba,One family household,999,15,216,147,287,41,0,0,0,0,0,4,0,1709
+,,Multiple family household,12,0,0,0,0,0,0,0,0,0,0,0,0,12
+,,Non-family household,194,9,96,194,195,23,0,0,0,0,0,5,0,716
+,,Non-classifiable,80,0,19,25,61,9,0,0,0,0,0,0,0,194
+,,Not applicable,120,0,32,46,77,11,0,0,0,0,0,0,0,286
+,,Total,1398,24,366,413,618,90,0,0,0,0,0,8,0,2917
+,East Brisbane,One family household,713,4,50,132,144,153,0,0,0,0,0,3,0,1199
+,,Multiple family household,17,0,0,0,0,0,0,0,0,0,0,0,0,17
+,,Non-family household,341,4,63,266,217,161,3,0,0,0,0,9,0,1064
+,,Non-classifiable,60,0,9,66,35,24,0,0,0,0,0,0,0,194
+,,Not applicable,125,0,19,77,53,48,0,0,0,0,0,0,4,326
+,,Total,1252,6,140,531,451,381,10,0,0,0,0,9,4,2784
+,Hawthorne,One family household,925,11,136,98,76,14,0,0,0,0,0,0,0,1260
+,,Multiple family household,9,0,0,0,0,0,0,0,0,0,0,0,0,9
+,,Non-family household,177,3,54,151,105,17,0,0,0,0,0,0,0,507
+,,Non-classifiable,28,0,11,21,10,0,0,0,0,0,0,0,0,70
+,,Not applicable,111,0,27,43,31,7,0,0,0,0,0,0,0,219
+,,Total,1246,16,225,312,231,37,0,0,0,0,0,4,0,2071
+,Morningside - Seven Hills,One family household,1819,42,716,181,269,37,0,0,0,0,0,13,0,3077
+,,Multiple family household,24,0,9,0,0,0,0,0,0,0,0,0,0,33
+,,Non-family household,556,55,532,274,310,50,0,0,0,0,0,7,0,1784
+,,Non-classifiable,100,3,76,35,59,8,0,0,0,0,0,5,0,286
+,,Not applicable,203,9,180,85,93,12,0,0,0,0,0,0,0,582
+,,Total,2707,116,1504,575,723,105,0,0,0,0,0,29,0,5759
+,Norman Park,One family household,1282,0,109,48,58,72,0,5,0,0,0,6,0,1580
+,,Multiple family household,10,0,0,0,0,0,0,0,0,0,0,0,0,10
+,,Non-family household,331,3,79,94,93,50,0,0,0,0,0,3,0,653
+,,Non-classifiable,61,0,10,18,15,21,0,0,0,0,0,0,0,125
+,,Not applicable,142,0,28,20,21,12,0,0,0,0,0,0,0,223
+,,Total,1834,8,229,183,187,151,0,8,0,0,0,12,0,2612
+,Albion,One family household,280,10,20,58,92,142,0,0,0,0,0,4,0,606
+,,Multiple family household,5,0,0,0,0,0,0,0,0,0,0,0,0,5
+,,Non-family household,143,0,22,90,117,163,0,0,0,0,0,5,0,540
+,,Non-classifiable,18,0,0,12,13,43,0,0,0,0,0,0,0,86
+,,Not applicable,85,0,5,47,43,52,0,0,0,0,0,0,3,235
+,,Total,526,12,48,210,270,406,3,4,0,0,0,8,3,1490
+,Alderley,One family household,1098,5,137,63,145,20,0,3,0,0,0,4,0,1475
+,,Multiple family household,11,0,0,0,0,0,0,0,0,0,0,0,0,11
+,,Non-family household,322,15,151,121,191,31,0,0,0,0,0,11,0,842
+,,Non-classifiable,43,0,4,19,26,5,0,0,0,0,0,3,0,100
+,,Not applicable,128,5,41,18,50,3,0,0,0,0,0,0,0,245
+,,Total,1602,26,332,218,418,54,0,3,0,0,0,23,0,2676
+,Ascot,One family household,760,0,101,190,171,0,0,0,0,0,0,3,0,1225
+,,Multiple family household,9,0,0,4,0,0,0,0,0,0,0,0,0,13
+,,Non-family household,193,0,70,299,266,5,0,4,0,0,0,8,0,845
+,,Non-classifiable,44,0,21,34,23,0,0,0,0,0,0,0,0,122
+,,Not applicable,111,0,19,99,80,0,0,0,0,0,0,0,6,315
+,,Total,1120,5,212,624,544,10,0,9,0,0,0,10,6,2540
+,Clayfield,One family household,1302,18,165,289,579,54,0,6,0,0,0,12,0,2425
+,,Multiple family household,20,0,0,4,5,5,0,0,0,0,0,0,0,34
+,,Non-family household,319,19,184,487,713,83,0,11,0,0,0,9,0,1825
+,,Non-classifiable,62,0,23,57,86,11,0,0,5,0,0,0,0,244
+,,Not applicable,154,10,60,125,214,35,0,4,0,0,0,0,9,611
+,,Total,1853,51,428,956,1604,188,0,21,5,0,0,23,9,5138
+,Grange,One family household,981,3,55,28,15,0,0,5,0,0,0,6,0,1093
+,,Multiple family household,11,0,0,0,0,0,0,0,0,0,0,0,0,11
+,,Non-family household,231,0,45,54,13,0,0,0,0,0,0,3,0,346
+,,Non-classifiable,34,5,4,6,4,0,0,0,0,0,0,0,0,53
+,,Not applicable,89,0,6,23,7,0,0,0,0,0,0,0,0,125
+,,Total,1339,13,109,102,38,3,0,5,0,0,0,7,0,1616
+,Hamilton (Qld),One family household,654,12,100,81,111,538,0,0,0,4,0,12,0,1512
+,,Multiple family household,5,0,0,0,0,0,0,0,0,0,0,0,0,5
+,,Non-family household,156,10,74,137,213,528,0,0,0,7,0,10,0,1135
+,,Non-classifiable,45,0,14,31,26,197,0,0,0,23,0,5,0,341
+,,Not applicable,102,4,16,74,49,330,0,0,0,0,0,0,21,596
+,,Total,968,21,213,320,402,1604,0,0,0,39,0,22,21,3610
+,Hendra,One family household,1088,16,104,3,3,0,0,0,0,0,0,5,0,1219
+,,Multiple family household,16,0,0,0,0,0,0,0,0,0,0,0,0,16
+,,Non-family household,299,15,55,15,3,0,0,0,0,0,0,10,0,397
+,,Non-classifiable,72,5,11,0,0,0,0,0,0,0,0,0,0,88
+,,Not applicable,152,4,20,8,0,0,0,0,0,0,0,0,0,184
+,,Total,1623,40,181,31,13,0,0,0,0,0,0,11,0,1899
+,Kelvin Grove - Herston,One family household,763,3,146,136,232,562,0,0,0,0,0,7,0,1849
+,,Multiple family household,14,0,0,0,5,3,0,0,0,0,0,0,0,22
+,,Non-family household,472,10,177,192,261,631,0,0,0,0,0,10,0,1753
+,,Non-classifiable,66,5,27,37,56,118,0,0,0,0,0,7,0,316
+,,Not applicable,100,0,25,53,59,121,0,0,0,0,0,0,17,375
+,,Total,1414,12,376,410,609,1439,0,0,0,0,0,33,17,4310
+,Newmarket,One family household,725,17,140,63,131,13,0,0,0,0,0,7,0,1096
+,,Multiple family household,10,0,3,0,0,0,0,0,0,0,0,0,0,13
+,,Non-family household,264,50,135,99,169,19,0,6,0,0,0,55,0,797
+,,Non-classifiable,39,0,11,12,18,7,0,0,0,0,0,0,0,87
+,,Not applicable,78,31,21,16,16,0,0,0,0,0,0,0,4,166
+,,Total,1110,101,308,191,339,42,0,6,0,0,0,61,4,2162
+,Newstead - Bowen Hills,One family household,230,0,48,54,500,1550,0,0,0,0,0,12,0,2394
+,,Multiple family household,6,0,4,0,0,4,0,0,0,0,0,0,0,14
+,,Non-family household,93,0,46,82,506,1650,0,0,0,0,0,15,0,2392
+,,Non-classifiable,40,0,3,19,145,563,0,0,0,0,0,11,0,781
+,,Not applicable,38,0,16,44,122,709,0,0,0,0,0,0,13,942
+,,Total,406,0,119,193,1275,4482,0,0,0,0,0,47,13,6535
+,Wilston,One family household,783,0,55,31,70,8,0,0,0,0,0,4,0,951
+,,Multiple family household,7,0,0,0,0,0,0,0,0,0,0,0,0,7
+,,Non-family household,187,0,47,78,77,5,0,0,0,0,0,7,0,401
+,,Non-classifiable,19,0,8,11,10,0,0,0,0,0,0,0,0,48
+,,Not applicable,86,0,11,19,21,0,0,0,0,0,0,0,3,140
+,,Total,1087,0,126,139,175,14,0,0,0,0,0,6,3,1550
+,Windsor,One family household,1091,4,73,127,220,161,0,0,0,0,0,7,0,1683
+,,Multiple family household,14,0,0,0,6,0,0,0,0,0,0,0,0,20
+,,Non-family household,429,3,75,248,283,177,0,0,0,0,0,3,0,1218
+,,Non-classifiable,43,0,4,25,25,28,0,0,0,0,0,0,0,125
+,,Not applicable,127,4,10,61,68,60,0,0,0,0,0,0,5,335
+,,Total,1703,12,164,462,598,422,0,0,0,0,0,8,5,3374
+,Wooloowin - Lutwyche,One family household,1363,31,56,315,269,192,0,4,0,0,0,5,0,2235
+,,Multiple family household,31,0,0,8,5,0,0,0,0,0,0,0,0,44
+,,Non-family household,370,32,67,472,377,164,3,0,0,0,0,12,0,1497
+,,Non-classifiable,73,11,8,46,31,72,0,0,0,0,0,3,0,244
+,,Not applicable,164,17,15,136,86,93,0,0,0,0,0,0,6,517
+,,Total,1990,83,145,966,766,524,3,11,0,0,0,23,6,4517
+,Ashgrove,One family household,2816,0,48,144,181,54,0,0,6,0,0,11,0,3260
+,,Multiple family household,30,0,0,0,0,0,0,0,0,0,0,0,0,30
+,,Non-family household,636,7,32,215,217,52,0,5,3,0,0,20,0,1187
+,,Non-classifiable,96,0,0,19,9,3,0,0,92,9,0,9,0,237
+,,Not applicable,299,8,11,64,57,6,0,3,0,0,0,0,4,452
+,,Total,3880,17,96,448,467,109,0,4,105,9,0,36,4,5175
+,Auchenflower,One family household,638,3,13,46,265,252,0,4,0,0,0,3,0,1224
+,,Multiple family household,4,0,0,0,6,0,0,0,0,0,0,0,0,10
+,,Non-family household,202,0,12,110,300,273,0,0,0,0,0,4,0,901
+,,Non-classifiable,43,0,0,23,61,56,0,0,0,0,0,0,0,183
+,,Not applicable,89,0,3,39,69,98,0,0,0,0,0,0,13,311
+,,Total,979,5,26,228,699,675,3,9,0,0,0,11,13,2648
+,Bardon,One family household,2157,13,113,83,18,3,0,0,0,0,0,10,0,2397
+,,Multiple family household,26,0,0,0,0,0,0,0,0,0,0,0,0,26
+,,Non-family household,530,15,87,136,26,6,0,0,0,0,0,6,0,806
+,,Non-classifiable,103,5,4,20,0,7,0,0,0,0,0,0,0,139
+,,Not applicable,220,7,14,54,4,3,0,0,0,0,0,0,6,308
+,,Total,3033,42,215,306,48,19,0,5,0,0,0,18,6,3692
+,Paddington - Milton,One family household,1682,0,183,120,158,222,0,8,0,0,0,0,0,2373
+,,Multiple family household,25,0,0,0,0,0,0,0,0,0,0,0,0,25
+,,Non-family household,729,10,202,250,253,261,0,18,0,0,0,7,0,1730
+,,Non-classifiable,102,0,19,34,27,73,0,0,0,5,0,9,0,269
+,,Not applicable,260,5,37,83,96,170,0,3,0,0,0,0,8,662
+,,Total,2802,20,446,489,538,730,3,34,0,6,0,22,8,5098
+,Red Hill (Qld),One family household,956,0,78,108,73,39,0,4,0,0,0,3,0,1261
+,,Multiple family household,9,0,0,0,0,0,0,0,0,0,0,0,0,9
+,,Non-family household,419,3,78,183,102,76,0,0,0,0,0,9,0,870
+,,Non-classifiable,71,6,15,41,32,15,0,0,0,0,0,0,0,180
+,,Not applicable,145,0,14,30,23,8,0,0,0,0,0,0,4,224
+,,Total,1595,6,188,375,226,141,0,7,0,0,0,10,4,2552
+,Toowong,One family household,1073,4,78,204,456,442,0,0,0,0,0,8,0,2265
+,,Multiple family household,10,0,0,0,3,0,0,0,0,0,0,0,0,13
+,,Non-family household,435,6,51,276,609,593,0,0,0,0,0,5,0,1975
+,,Non-classifiable,54,6,4,56,94,126,0,0,0,0,0,6,0,346
+,,Not applicable,140,10,20,45,104,99,0,5,0,0,0,0,15,438
+,,Total,1714,29,156,584,1254,1260,0,4,0,0,0,13,15,5029
+,Total,One family household,229403,4198,20345,10580,12689,15208,31,242,130,285,19,811,0,293941
+,,Multiple family household,6214,56,360,102,110,73,0,13,3,4,0,15,0,6950
+,,Non-family household,60488,5966,13487,16851,15898,16294,49,183,377,664,57,1087,0,131401
+,,Non-classifiable,9726,597,2033,2384,2464,4229,18,60,302,399,245,324,0,22781
+,,Not applicable,22097,1110,3365,4235,3707,5832,17,106,20,12,16,87,763,41367
+,,Total,327925,11934,39595,34152,34867,41637,113,595,829,1365,339,2322,763,496436
